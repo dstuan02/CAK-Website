@@ -1,0 +1,61 @@
+{
+        "banner":{
+            "title":"Hãy để đội ngũ tư vấn của CAK Solution hỗ trợ bạn dù ở bất kỳ nơi đâu"
+        },
+
+        "section1": {
+            "child":[
+                {
+                    "title":"TƯ VẤN",
+                    "content":[
+                        "Đăng ký/Gia hạn dịch vụ",
+                        "Điện thoại: 02877788895",
+                        "Email: Info@cak-solution.com"
+                    ]
+                },
+    
+                {
+                    "title":"HỖ TRỢ",
+                    "content":[
+                        "Kỹ thuật (24/7)",
+                        "Điện thoại: 02877788895",
+                        "Email: Info@cak-solution.com"
+                    ]
+                },
+    
+                {
+                    "title":"DỊCH VỤ",
+                    "content":[
+                        "Khách hàng, Kế toán",
+                        "Điện thoại: 02877788895",
+                        "Email: Info@cak-solution.com"
+                    ]
+                },
+    
+                {
+                    "title":"THAN PHIỀN",
+                    "content":[
+                        "Thái độ nhân viên (8h00 – 21h00",
+                        "Điện thoại: 02877788895",
+                        "Email: Info@cak-solution.com"
+                    ]
+                }
+    
+            ]
+        },
+         
+        "contact":{
+            "child":[
+                {
+                    "title":"Miền Nam",
+                    "content":[
+                        "Địa chỉ: 542/12/5, Nguyễn Ảnh Thủ, Phường Hiệp Thành, Quận 12, Tp. Hồ Chí Minh",
+                        "Email:Info@cak-solution.com",
+                        "Tổng đài: 02877788895"
+                    ]
+
+                }
+
+                
+        ]}
+}

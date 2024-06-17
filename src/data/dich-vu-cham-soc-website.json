@@ -1,0 +1,355 @@
+{
+	"banner": {
+		"title": "DỊCH VỤ CHĂM SÓC WEBSITE",
+		"content": "Giải pháp tối ưu dành cho người bận rộn - Chúng tôi sẽ làm tất cả để giúp bạn tiết kiệm thời gian và tiền bạc, bạn chỉ tập trung phát triển kinh doanh và làm cho website của bạn thêm tuyệt vời hơn.",
+		"child": [
+			{
+			"title": "KÝ HĐ 3 THÁNG",
+			"content": ["Giảm 10% tổng giá trị HĐ khi thanh toán 1 lần 6 tháng"]
+			},
+			{
+			"title": "KÝ HĐ 6 THÁNG",
+			"content": ["Giảm 20% tổng giá trị HĐ khi thanh toán 1 lần 9 tháng"]
+			},
+			{
+			"title": "KÝ HĐ 9 THÁNG",
+			"content": ["Giảm 30% tổng giá trị HĐ khi thanh toán 1 lần 12 tháng"]
+			}
+		]
+	},
+
+	"section1": {
+		"title": "CÓ BAO GIỜ BẠN TỰ THẮC MẮC:",
+		"content": [
+			"Website của mình đang hoạt động hiệu quả không?",
+			"Có bao nhiêu khách hàng truy cập website của mình trong một tháng?",
+			"Nếu họ truy cập thì nội dung nào họ quan tâm nhất? Không biết khi khách hàng tìm kiếm các sản phẩm dịch vụ liên quan đến công ty mình trên google thì website của mình có được hiển thị không?",
+			"Website của mình có đang được backup an toàn không? Nếu hosting bị sự cố thì website có được phục hồi lại dữ liệu không?",
+			"Website của mình có an toàn trước các cuộc xâm nhập của hacker không?"
+		]
+	},
+
+	"section2": {
+		"title": "ƯU ĐIỂM NỔI BẬT KHI THỰC HIỆN CHĂM SÓC WEBSITE ?",
+		"content": "Website là cầu nối quan trọng để chuyển tải thông điệp thương hiệu và sản phẩm dịch vụ của doanh nghiệp đến khách hàng, đối tác. Do đó, việc biên soạn nội dung và hình ảnh một cách chuyên nghiệp sẽ nâng tầm giá trị của công ty trên thương trường.",
+		"child": [
+			{
+			"content": "Xử lý hình ảnh sắc nét, đúng tiêu chuẩn, bắt mắt, thiết kế banner và hình ảnh mới cho website để thu hút khách hàng",
+			"image": "https://cdn-icons-png.flaticon.com/128/9079/9079458.png"
+			},
+			{
+			"content": "Cập nhật nội dung website thường xuyên bằng cách viết bài content chuẩn SEO với các thông tin bổ ích, nội dung hấp dẫn và mới mẻ.",
+			"image": "https://cdn-icons-png.flaticon.com/128/8312/8312560.png"
+			},
+			{
+			"content": "Tăng khả năng tiếp cận khách hàng tiềm năng vì website của bạn đã được chăm sóc và quản lý đúng cách nên giúp nó có thứ hạng tốt trên các bảng xếp hạng tìm kiếm..",
+			"image": "https://cdn-icons-png.flaticon.com/128/1268/1268397.png"
+			},
+			{
+			"content": "Tăng tốc độ load trang để phục vụ trải nghiệm của khách hàng tốt nhất, thể hiện sự chuyên nghiệp bằng cách tối ưu dữ liệu và hình ảnh.",
+			"image": "https://cdn-icons-png.flaticon.com/128/2665/2665525.png"
+			}
+		]
+	},
+
+	"section4": {
+		"title": "DỊCH VỤ CHĂM SÓC WEBSITE LÀM GÌ?",
+		"content": "Chúng tôi hiểu được những khó khăn của doanh nghiệp khi xây dựng, vận hành và phát triển một website. Với các gói dịch vụ chăm sóc website chuyên nghiệp sẽ giúp các doanh nghiệp giải quyết những khó khăn này.",
+		"child": [
+			{
+			"title": "Chăm sóc website có cam kết website lên top không?",
+			"content": "Từ khoá sẽ dễ hiển thị trên top Google và có thứ hạng tốt hơn khi tìm kiếm dù dịch vụ chăm sóc website không bao gồm việc cam kết lên Top. Nếu quan tâm dịch vụ SEO Top vui lòng liên hệ để nhận thêm báo giá.",
+			"image": "https://cdn-icons-png.flaticon.com/128/9422/9422835.png"
+			},
+			{
+			"title": "Sử dụng dịch vụ chăm sóc website bao lâu mới có hiệu quả?",
+			"content": "Đối với website mới bạn nên sử dụng dịch vụ chăm sóc website trọn gói từ 03 tháng trở lên để website được tối ưu tốt nhất về mặt nội dung chuẩn SEO để sẵn sàng cho việc chạy Quảng Cáo hoặc chạy SEO.",
+			"image": "https://cdn-icons-png.flaticon.com/128/694/694900.png"
+			}
+		]
+	},
+
+	"section3": {
+        "title": "LỰA CHỌN GÓI DỊCH VỤ CHĂM SÓC WEBSITE",
+        "content": " dịch vụ tốt nhất thị trường !",
+        "child": [
+            {
+                "valueTrigger": "account",
+                "title": "BẢNG GIÁ DỊCH VỤ",
+                "children": [
+                    {
+                        "title": "FBADS 01",
+                        "price": "< 20.000.000 ₫",
+                        "times": "/tháng",
+                        "color": "#ff832b",
+                        "content": [
+                            "Phí dịch vụ quản lý 20%/ ngân sách chạy",
+                            "Tư vấn chiến lược Marketing tinh gọn",
+                            "Lập kế hoạch triển khai quảng cáo chuyên nghiệp theo sản phẩm/ dịch vụ kinh doanh",
+                            "Loại hình Setup: Google Search, Tiếp thị lại",
+                            "Setup tối đa 5 chiến dịch chạy",
+                            "Tối đa 50 từ khoá chạy chính được đề xuất hoặc lựa chọn theo yêu cầu",
+                            "Không giới hạn chạy từ khoá phụ (số lượng từ khoá phụ được bổ sung liên tục dựa theo mức ngân sách chạy)",
+                            "Vị trí top hiển thị 1-4 hoặc 1-7",
+                            "Thời gian hiển thị quảng cáo set theo yêu cầu",
+                            "Khu vực chạy quảng cáo tuỳ chọn",
+                            "Theo dõi đo lường, tối ưu quảng cáo hàng ngày",
+                            "Lọc chặn từ khóa phủ định, hạn chế chặn click ảo",
+                            "Báo cáo dữ liệu quảng cáo hàng tuần/ hàng tháng"
+                        ],
+                        "gift": {
+                            "content": [
+                                "Giảm giá 15% khi đăng ký các gói dịch vụ Chăm sóc Website/ Tạo và Chăm sóc Fanpage",
+                                "Giảm giá 15% khi đăng ký các dịch vụ Thiết kế Website"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "FBADS 02",
+                        "price": "≥ 20.000.000 ₫",
+                        "times": "/tháng",
+                        "color": "#00d084",
+                        "content": [
+							"50.000.000 ₫",
+                            "Phí dịch vụ quản lý 18%/ ngân sách chạy",
+                            "Tư vấn chiến lược Marketing chuyên sâu",
+                            "Lập kế hoạch triển khai quảng cáo chuyên sâu theo mô hình sản phẩm/ dịch vụ kinh doanh",
+                            "Loại hình Setup: Google Search, GDN, Tiếp thị lại",
+                            "Setup tối đa 15 chiến dịch chạy",
+                            "Tối đa 100 từ khoá chạy chính được đề xuất hoặc lựa chọn theo yêu cầu",
+                            "Không giới hạn chạy từ khoá phụ (số lượng từ khoá phụ được bổ sung liên tục dựa theo mức ngân sách chạy)",
+                            "Vị trí top chạy theo yêu cầu",
+                            "Thời gian hiển thị quảng cáo set theo yêu cầu",
+                            "Khu vực chạy quảng cáo tuỳ chọn",
+                            "Theo dõi đo lường, tối ưu quảng cáo hàng ngày",
+                            "Cài đặt theo dõi chuyển đổi chuyên sâu",
+                            "Lọc, chặn từ khóa phủ định, ngăn chặn click ảo",
+                            "Tần suất báo cáo hằng ngày và xem trực tiếp số liệu quảng cáo trên tài khoản được share quyền"
+                        ],
+                        "gift": {
+                            "content": [
+                                "Giảm giá 20% khi đăng ký các gói dịch vụ Chăm sóc Website/ Tạo và Chăm sóc Fanpage",
+                                "Giảm giá 20% khi đăng ký các gói dịch vụ Thiết kế Website"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "FBADS 03",
+                        "price": "> 50.000.000 ₫",
+                        "times": "/tháng",
+                        "color": "#25b1ca",
+                        "content": [
+                            "Phí dịch vụ quản lý thoả thuận dựa vào lĩnh vực quảng cáo và theo mức ngân sách chạy",
+                            "Tư vấn chiến lược Marketing theo giải pháp",
+                            "Lập kế hoạch triển khai quảng cáo theo giải pháp chuyên sâu",
+                            "Loại hình Setup: Google Search, GDN, Tiếp thị lại, Youtube, Shopping",
+                            "Setup chạy theo KPI yêu cầu: CPA, Conversion",
+                            "Số lượng chiến dịch theo yêu cầu",
+                            "Từ khoá chính chọn theo yêu cầu hoặc đề xuất theo giải pháp",
+                            "Không giới hạn chạy từ khoá phụ (số lượng từ khoá phụ được bổ sung liên tục dựa theo mức ngân sách chạy)",
+                            "Vị trí top chạy theo giải pháp",
+                            "Thời gian hiển thị quảng cáo theo giải pháp",
+                            "Khu vực chạy quảng cáo tuỳ chọn",
+                            "Theo dõi đo lường, tối ưu quảng cáo hàng ngày",
+                            "Cài đặt theo dõi chuyển đổi chuyên sâu",
+                            "Lọc, chặn từ khóa phủ định, ngăn chặn click ảo",
+                            "Tần suất báo cáo hằng ngày và xem trực tiếp số liệu quảng cáo trên tài khoản được share quyền"
+                        ],
+                        "gift": {
+                            "content": [
+                                "Giảm giá 25% khi đăng ký các gói dịch vụ Chăm sóc Website/ Tạo và Chăm sóc Fanpage",
+                                "Giảm giá 25% khi đăng ký các dịch vụ Thiết kế Website"
+                            ]
+                        }
+                    }
+                ]
+            }
+            ],
+            "contact": {
+                "title": "Để có báo giá chính xác và tốt nhất khách hàng vui lòng liên hệ:",
+                "content": [
+                    "Hotline : 02998888683 !",
+                    "Tổng đài miễn phí : 02998888683"
+                ]
+            }
+    },
+
+	"section5": {
+		"title": "QUY TRÌNH DỊCH VỤ CHĂM SÓC WEBSITE",
+		"content": "Đội ngũ CAK SOLUTION không chỉ là những người thực hiện, chúng tôi sẽ cùng bạn đưa ra giải pháp tốt nhất cho website của bạn. Dịch vụ chăm sóc website chuyên nghiệp với những công việc cụ thể:",
+		"child": [
+			{
+				"title": "NGHIÊN CỨU & XÁC ĐỊNH MỤC TIÊU ",
+				"content": ["Xây dựng hệ thống từ khóa tổng thể phù hợp với sản phẩm và nhu cầu tìm kiếm của người dùng"]
+			},
+			{
+				"title": "TỐI ƯU SEO ONPAGE",
+				"content": ["Thực hiện kiểm tra bố cục và tối ưu cấu trúc website chuẩn SEO, cập nhật website với Google Search."]
+			},
+			{
+				"title": "VIẾT BÀI CHUẨN SEO",
+				"content": ["Cập nhật tin tức doanh nghiệp, biên soạn nội dung chuẩn SEO mới 100% theo bộ từ khóa đã phân tích."]
+			},
+			{
+				"title": "THEO DÕI NGƯỜI DÙNG",
+				"content": ["Gắn các thẻ Google Analytics, Google Search Console cho phép phân tích hành vi người dùng trên website"]
+			},
+			{
+				"title": "XÂY DỰNG VỆ TINH",
+				"content": ["Xây dựng các trang blog vệ tinh liên quan, đẩy nhanh quá trình cập nhật website với công cụ tìm kiếm."]
+			},
+			{
+				"title": "ĐỒNG HÀNH & PHÁT TRIỂN",
+				"content": ["Hỗ trợ xử lý xự cố vận hành website hoạt động ổn định. Tư vấn phát triển thêm tính năng mới đáp ứng nhu cầu mở rộng theo các giai đoạn yêu cầu từ khách hàng và cùng các chiến lược Marketing, quảng cáo."]
+			}
+		]
+	},
+
+	"section6": {
+		"title": "9 LÝ DO NÊN CHỌN DỊCH VỤ CONTENT MARKETING CỦA CHÚNG TÔI",
+		"content": "Đội ngũ chúng tôi không chỉ là những người thực hiện mà còn giúp bạn đưa ra giải pháp tốt nhất để doanh nghiệp đạt được mục tiêu. Với những cam kết:",
+		"child": [
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/12.png",
+				"title": "Chuyên viên tư vấn tận tâm, nắm vững kỹ năng chuyên môn"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/16.png",
+				"title": "Chi phí chỉ bằng 1/2 lương một nhân viên tại văn phòng"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/8.png",
+				"title": "Nghiên cứu kỹ càng về người dùng, đối thủ và mô hình kinh doanh"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/CRM%20(5).png",
+				"title": "Quy trình tiếp nhận và triển khai dự án bài bản, chuyên nghiệp"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/15.png",
+				"title": "Kết nối chặt chẽ, tương tác và phản hồi liên tục trong dự án"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/1.png",
+				"title": "Đội ngũ giàu kinh nghiệm, đã thực thi ở nhiều ngành nghề khác nhau"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//gangthep.vn/2024/032024/13/CRM%20(1).png",
+				"title": "Content thu hút và có giá trị với người dùng sẽ làm tăng tỉ lệ chuyển đổi"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//gangthep.vn/2024/032024/13/19.png",
+				"title": "Luôn cập nhật, đổi mới nội dung content phù hợp với xu hướng mới nhất"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/14.png",
+				"title": "Báo cáo chi tiết, đầy đủ rõ ràng các hạng mục công việc đã thực hiện"
+			}
+		]
+	},
+
+	"section7": {
+		"title": "THÀNH TỰU MÀ CAK SOLUTION ĐẠT ĐƯỢC",
+		"content": "Các khách hàng tiêu biểu đã và đang hợp tác cùng CAK SOLUTION",
+		"child": [
+			{
+				"title": 568,
+				"content": "Dự án đã triển khai"
+			},
+			{
+				"title": 500,
+				"content": "Khách hàng tiêu biểu"
+			},
+			{
+				"title": 7,
+				"content": "Năm kinh nghiệm"
+			},
+			{
+				"title": 30,
+				"content": "Đội ngũ nhân sự"
+			}
+		]
+	},
+
+	"section8": {
+		"title": "CÁC CÂU HỎI THƯỜNG GẶP",
+		"child": [
+			{
+				"label": "1. Quảng cáo Facebook Ads là gì?",
+				"children": [
+					" -Quảng cáo Facebook là nền tảng tiếp thị hiệu quả đến khách hàng tiềm năng cho doanh nghiệp cung cấp dịch vụ và doanh nghiệp bán sản phẩm vật lý.Dựa vào hoạt động của người dùng trên Facebook như hay xem những chủ đề gì, sử dụng thiết bị nào, thời gian trên nền tảng,… để phân phối quảng cáo.Những công ty quảng cáo Facebook hoặc cá nhân phải trả một khoản phí để hiển thị mẫu quảng cáo của mình để tiếp cận khách hàng mục tiêu.",
+					"- Facebook sẽ tính chi phí theo từng lượt đấu thầu cho mẫu quảng cáo, mỗi loại chiến dịch quảng cáo Facebook sẽ có một cách đấu giá thầu khác nhau.Ví dụ: các mẫu quảng cáo tương tác sẽ tính giá thầu theo lượt tương tác like, share, comment.Các mẫu quảng cáo tin nhắn sẽ tính theo lượt nhấp vào nút “nhắn tin”,…",
+					"- Quảng cáo facebook ngày càng trở nên hấp dẫn đối với nhiều doanh nghiệp khi càng nhiều doanh nghiệp nhận ra rằng quảng cáo facebook tạo những cơ hội tuyệt hảo về khả năng tiếp cận khách hàng tiềm năng cũng như gia tăng tỷ lệ chuyển đổi. Facebook là nơi tập trung một lượng lớn khách hàng đến từ đa ngành nghề, đa lĩnh vực.",
+					"- Ngày nay, việc tăng doanh thu từ đơn hàng quảng cáo ở Facebook trở nên phổ biến cho nhiều loại hình doanh nghiệp khác nhau, từ bán lẻ đến bán sỉ đều có thể thực hiện. Việc của doanh nghiệp là tạo ra một chiến dịch quảng cáo hiệu quả, không vi phạm các chính sách của Facebook."
+				]
+			},
+			{
+				"label": "2. Các hình thức Quảng Cáo trên Facebook Ads?",
+				"children": [
+					"Một số loại hình chạy quảng cáo Facebook Ads cơ bản:",
+					"- Quảng Cáo Facebook Tiếp Cận: Tính phí theo số khách hàng nhìn thấy bài viết quảng cáo FB.Nếu một tài khoản Facebook thấy quảng cáo 100 lần/ngày thì chỉ tính phí là 1 tiếp cận. Phù hợp mục tiêu tăng độ nhận biết thương hiệu trên Social.",
+					"- Quảng cáo Facebook Tương Tác Post: Quảng cáo Facebook chỉ tính phí khi người dùng tương tác vào bài viết đang chạy quảng cáo. Một tương tác được định nghĩa là: Click, Like, Share Hoặc Comment vào bài post.",
+					"- Quảng Cáo Tăng Like Fanpage: Hình thức quảng cáo nhằm tăng thêm số lượt người Like Fanpage. Chi phí dịch vụ quảng cáo tăng like sẽ tính trên số lượt like Fanpage Facebook được tạo ra. Tùy lĩnh vực, giá like sẽ khác nhau.",
+					"- Quảng Cáo Click To Messenger: Quảng cáo hiển thị trên News Feed & Messenger người dùng, click vào sẽ mở ra cửa số Inbox Messenger. Dịch vụ giúp Fanpage nhận nhiều lượt inbox, bảng giá quảng cáo FB tính trên số lần tương tác.",
+					"- Quảng cáo Video ThruPlay: Quảng cáo có dạng nội dung và video hiển thị ở nhiều vị trí trên Facebook, có thể là News Feed hoặc Tab Video,… Dạng dịch vụ quảng cáo Facebook Video ThruPlay tính phí trên số lượt xem video sau 15 giây.",
+					"- Quảng Cáo Click To Web: Quảng cáo Click To Web là dạng quảng cáo mà khách hàng mục tiêu bấm vào quảng cáo Sponsored sẽ được chuyển hướng về Landing Page doanh nghiệp.",
+					"- Quảng Cáo Livestream Facebook: Là dạng quảng cáo với mục đích giúp các video livestream trực tiếp có nhiều lượt xem hơn. Yêu cầu Fanpage có thương hiệu và tích xanh. Chi phí quảng cáo trên số lượt view video sau 3 giây."
+				]
+			},
+			{
+				"label": "3. Tiêu chuẩn chất lượng dịch vụ chạy Quảng cáo Facebook của chúng tôi là gì?",
+				"children": [
+					"- Nội dung quảng cáo độc lạ, thu hút.",
+					"- Lượt like, lượt chia sẻ bài viết cao.",
+					"- Số lượng khách hàng mua sản phẩm/ dịch vụ tăng sau khi thực hiện chiến dịch.",
+					"- Lượt tiếp cận bài viết cao.",
+					"- Lượt theo dõi trang tăng mạnh.",
+					"- Tối ưu chi phí phù hợp với chiến dịch quảng cáo."
+				]
+			},
+			{
+				"label": "4. Hình Thức Quảng Cáo Facebook theo Quản Lý Tài Khoản là gì?",
+				"children": [
+					"- Khách Hàng Chọn Ngân Sách Chạy Ads / Tháng: Doanh nghiệp xác định chi phí dịch vụ chạy quảng cáo Google Ads / tháng (ví dụ: 50 triệu/tháng), khách hàng chuyển 50 triệu cho chúng tôi, Chúng tôi sẽ nạp hết 50 triệu cho Google để dùng chạy Ads. Chúng tôi nhận thêm % chi phí dịch vụ quản lý tài khoản quảng cáo Google (10%-20%) tuỳ theo ngân sách và độ phức tạp của dự án khi chạy.",
+					"- Setup Quảng Cáo & Tối Ưu Hiệu Quả Quảng Cáo: Đội ngũ chuyên gia Google Ads của chúng tôi sẽ tạo thử nghiệm phân tách, quản lý, đề xuất điều chỉnh thông số trên từng chiến dịch,nhằm tối đa hóa phạm vi tiếp cận,từ khoá, top,…từ đối tượng mục tiêu của doanh nghiệp.",
+					"- Báo Cáo Hiệu Suất Định Kỳ Minh Bạch, Chính Xác về tổng quan chiến dịch, tỷ lệ nhấp, ROI chiến dịch và báo cáo định kỳ theo yêu cầu. Số liệu report được trích xuất trực tiếp từ Trình Quản Lý Quảng Cáo Google Ads."
+				]
+			},
+			{
+				"label": "5. Ngân sách tối thiểu cho 1 dự án chạy Quảng cáo Google Ads tại CAK SOLUTION là bao nhiêu?",
+				"children": [
+					"Tùy trường hợp, tuy nhiên thường chúng tôi sẽ nhận hợp đồng quảng cáo ngân sách tối thiểu là 3.000.000 đ. Đây là điều kiện cần để chúng tôi thực hiện những kỹ thuật tối ưu nhằm đảm bảo được hiệu quả quảng cáo."
+				]
+			},
+			{
+				"label": "6. Tiêu chuẩn chất lượng dịch vụ chạy Quảng cáo Google của chúng tôi là gì?",
+				"children": [
+					"#1. Chuyên viên hỗ trợ tận tâm 24/7, phản hồi qua Zalo/Hotline ở mọi thời điểm giúp đáp ứng mọi thay đổi quảng cáo, báo cáo cho khách hàng.",
+					"#2. Đảm bảo tiến độ dự án chạy theo đúng theo lộ trình, kế hoạch triển khai đã lập ra bởi đội ngũ chuyên gia Google của chúng tôi.",
+					"#3. Liên tục đưa ra những phương án tối ưu dựa vào báo cáo thực tế từ quý khách hàng như thực hiện bổ sung từ khóa phụ, chặn phủ định, chặn click ảo,…",
+					"#4. Đảm bảo chất lượng dự án và kết quả đạt được thực tế sẽ cao hơn bảng kết quả đã dự kiến nhằm giúp tối ưu chi phí và tăng thêm nhiều chuyển đổi khách hàng.",
+					"#5. Tùy mục tiêu và giai đoạn phát triển của từng doanh nghiệp, chúng tôi sẽ có những bộ chỉ số để đánh giá hiệu quả của quảng cáo Google khác nhau.Thông thường sẽ có 2 mục tiêu quan trọng: Xây dựng nhận biết thương hiệu và thu hút khách hàng tiềm năng vào website. (nhằm mua hàng/ đăng ký tư vấn/ gọi điện…).Vì thế để đánh giá hiệu quả quảng cáo trên Google sẽ dựa trên 2 tiêu chí: Lượng truy cập và Tỷ lệ chuyển đổi. Chuyển đổi là hành vi tạo ra giá trị của khách hàng, có thể ví dụ như: nhấp chuột bao nhiêu lần, ở trên trang bao nhiêu lâu, có click vào các mục khác trên web không, click vào livechat, điền form, gọi hotline, v.v. Tỷ lệ chuyển đổi là tỉ lệ hành động tạo giá trị/ số lượt click vào quảng cáo. Tỷ lệ này sẽ khác với từng ngành, từng công ty, từng sản phẩm, từng trang đích.",
+					"#6. Với phương châm “HÀI LÒNG hoặc HOÀN TIỀN” nên từ ngày chạy quảng cáo thứ 15, nếu quý khách không hài lòng với dịch vụ quảng cáo (không có khách gọi, không hiệu quả như mong muốn,…) chúng tôi cam kết sẽ hoàn tiền ngay theo đúng quy định."
+				]
+			},
+			{
+				"label": "7. Công ty có Cam kết Doanh số bán hàng không?",
+				"children": [
+					"Quảng cáo Google chỉ đóng vai trò giúp đưa sản phẩm/ dịch vụ tiếp cận đúng nhóm khách hàng mục tiêu, nếu khách hàng có nhu cầu họ sẽ tương tác nhắn tin hoặc gọi điện cho bạn.Việc bán hàng còn phụ thuộc vào chất lượng sản phẩm/ dịch vụ bạn như thế nào, sự khác biệt của bạn so với đối thủ và cách bạn tư vấn bán hàng ra sao, chế độ hậu mãi như thế nào,…Đó là lý do tất cả các loại hình quảng cáo không thể cam kết doanh số… chúng tôi chỉ cam kết về các tiêu chí chất lượng dịch vụ quảng cáo, và kết quả từ quảng cáo mang lại cho doanh nghiệp của bạn."
+				]
+			},
+			{
+				"label": "8. Nên tự chạy hay thuê chúng tôi chạy Quảng cáo Google Ads?",
+				"children": [
+					"Website chuẩn Marketing là website hỗ trợ tốt cho việc triển khai các chiến dịch marketing, dễ dàng tích hợp các công cụ hỗ trợ, theo dõi…"
+				]
+			},
+			{
+				"label": "9. Website chuẩn SEO là gì?",
+				"children": [
+					"Với kinh nghiệm quản lý ngân sách hàng tỷ đồng trong rất nhiều các chiến dịch quảng cáo trên Google, am hiểu về thuật toán, chính sách của Google, chúng tôi biết cách xác định và đưa ra các điều chỉnh, tối ưu quảng cáo sao cho phù hợp theo các giai đoạn để quảng cáo chạy đạt được hiệu suất cao nhất.Nếu bạn tự chạy quảng cáo, bạn sẽ MẤT rất nhiều thời gian và tiền bạc để có đủ kỹ năng, kinh nghiệm cần thiết để tự chạy."
+				]
+			}
+		]
+	}
+}

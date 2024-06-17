@@ -1,0 +1,279 @@
+{
+  "banner": {
+    "content": [
+      "Với khoảng 100 triệu dân. Đồng thời với thu nhập trung bình khá ổn, đặc biệt tại các Tỉnh Thành lớn ở Việt Nam. Nhu cầu làm đẹp ngày càng cao. Các tiệm SPA lớn nhỏ mọc lên khá nhiều cùng theo đó là mong muốn SPA được phát triển chuyên nghiệp, chấm công và tính lương cho nhân viên rõ ràng, minh bạch…",
+      "Để đáp ứng mong muốn đó của các chủa SPA. Chúng tôi Công Ty Cổ Phần Công Nghệ Salo đã cho ra mắt Phần mềm quản lý SPA chuyên nghiệp với những tính năng cơ bản bên dưới…Hy vọng sẽ phù hợp với mô hình kinh doanh của bạn."
+    ]
+  },
+  "section1": {
+    "title": "TÍNH NĂNG CƠ BẢN",
+    "child": [
+      {
+        "title": "SMS Marketing",
+        "content": "Nhắn tin tự động tới khách hàng nhắc lịch hẹn, Chúc mừng sinh nhật hoặc quảng cáo các nội dung cho phép."
+      },
+
+      {
+        "title": "SMS Marketing",
+        "content": "Nhắn tin tự động tới khách hàng nhắc lịch hẹn, Chúc mừng sinh nhật hoặc quảng cáo các nội dung cho phép."
+      },
+
+      {
+        "title": "Biểu đồ tổng hợp",
+        "content": "Biểu đồ thống kê tổng khách hàng nam, nữ, dịch vụ, sản phẩm dùng nhiều nhất, biểu đồ doanh thu, lợi nhuận."
+      },
+
+      {
+        "title": "Ứng dụng trên Mobile",
+        "content": "Ứng dụng Salo có phiên bản đầy đủ trên Mobile. Giúp bạn quản lý khách hàng, nhân viên mọi lúc mọi nơi."
+      },
+
+      {
+        "title": "Phân quyền User",
+        "content": "Phân quyền nhân viên được hoặc không được xem, sửa phiếu thu, doanh thu, chi phí, lợi nhuận, danh sách khách hàng..."
+      },
+
+      {
+        "title": "Quản lý chuỗi Spa",
+        "content": "Quản lý một hoặc nhiều Spa trên một Subdomain duy nhất. Đồng bộ hóa dữ liệu khách hàng, phân cấp theo từng chi nhánh, nhân viên."
+      },
+
+      {
+        "title": "Dung lượng lưu trữ",
+        "content": "Salo không giới hạn dung lượng lưu trữ khi quý khách sử dụng phần mềm. Dữ liệu bảo mật tuyệt đối. Và được backup bởi nhiều Server khác nhau."
+      },
+
+      {
+        "title": "Quản lý thông tin khách hàng",
+        "content": "Theo dõi hồ sơ điều trị, lịch sử mua hàng, Tình trạng công nợ, và các thông tin khác"
+      },
+
+      {
+        "title": "Thống kê báo báo",
+        "content": "Thống kê báo cáo chi tiết, rõ ràng theo nhân viên, theo khách hàng, theo dịch vụ, sản phẩm"
+      },
+
+      {
+        "title": "Quản lý lịch hẹn",
+        "content": "Quản lý lịch hẹn với khách hàng. Tự động nhắc nhở theo thời gian. Khách hàng chủ động đặt lịch hẹn Online."
+      },
+
+      {
+        "title": "Chấm công & tính lương",
+        "content": "Chấm công & tính lương nhân viên theo lương cơ bản, hoa hồng dịch vụ, cùng phụ cấp, tiền thưởng."
+      },
+
+      {
+        "title": "Quản lý công nợ",
+        "content": "Theo dõi tình trạng công nợ chi tiết thanh toán theo từng ngày từng hóa đơn. Tìm kiếm số di động hoặc tên khách là hiện rõ thông tin."
+      },
+
+      {
+        "title": "Quản lý Thẻ liệu trình",
+        "content": "Quản lý thẻ liệu trình, thẻ combo theo số buổi đã mua, số buổi đã sử dụng, số buổi còn lại của thẻ. Hoặc quản lý thẻ trả trước của khách hàng."
+      }
+    ]
+  },
+
+  "section2": {
+    "content": "Những tính năng giới thiệu bên trên có thể vẫn chưa có tính năng bạn mong muốn. Bởi lẽ phần mềm còn rất nhiều tính năng khác chưa trình bày bên trên.Bạn có bất kỳ câu hỏi nào hãy liên hệ ngay cho nhân viên chúng tôi để dược tư vấn thêm. Nếu những tính năng trên đã phù hợp với bạn hãy xem bảng báo giá bên dưới và đăng ký trải nghiệm miễn phí.",
+    "title": "BẢNG GIÁ PHẦN MỀM",
+    "child": [
+      {
+        "tag": "GÓI TIẾT KIỆM",
+        "title": "vnđ 159.000",
+        "content": [
+          "Giá 1 tháng",
+          "Số lượng tài khoản 1",
+          "Số lượng chi nhánh 1",
+          "Đặt lịch hẹn Online",
+          "Quản lý tiêu hao dịch vụ",
+          "Quản lý sản phẩm",
+          "Quản lý dịch vụ",
+          "Quản lý thẻ liệu trình",
+          "Quản lý khách hàng",
+          "Quản lý phiếu thu",
+          "Quản lý nhân viên",
+          "Hóa đơn thu chi",
+          "Hóa đơn xuất nhập",
+          "Thống kê doanh thu",
+          "Thống kê tồn kho",
+          "Chấm công & tính lương",
+          "SMS Marketing",
+          "Chấm công FaceID",
+          "Không giới hạ dung lượng",
+          "Miễn phí APP CSKH"
+        ]
+      },
+      {
+        "tag": "GÓI CƠ BẢN",
+        "title": "vnđ 259.000",
+        "content": [
+          "Giá 1 tháng",
+          "Số lượng tài khoản 1",
+          "Số lượng chi nhánh 1",
+          "Đặt lịch hẹn Online",
+          "Quản lý tiêu hao dịch vụ",
+          "Quản lý sản phẩm",
+          "Quản lý dịch vụ",
+          "Quản lý thẻ liệu trình",
+          "Quản lý khách hàng",
+          "Quản lý phiếu thu",
+          "Quản lý nhân viên",
+          "Hóa đơn thu chi",
+          "Hóa đơn xuất nhập",
+          "Thống kê doanh thu",
+          "Thống kê tồn kho",
+          "Chấm công & tính lương",
+          "SMS Marketing",
+          "Chấm công FaceID",
+          "Không giới hạ dung lượng",
+          "Miễn phí APP CSKH"
+        ]
+      },
+
+      {
+        "tag": "GÓI NÂNG CAO",
+        "title": "vnđ 359.000",
+        "content": [
+          "Giá 1 tháng",
+          "Số lượng tài khoản 1",
+          "Số lượng chi nhánh 1",
+          "Đặt lịch hẹn Online",
+          "Quản lý tiêu hao dịch vụ",
+          "Quản lý sản phẩm",
+          "Quản lý dịch vụ",
+          "Quản lý thẻ liệu trình",
+          "Quản lý khách hàng",
+          "Quản lý phiếu thu",
+          "Quản lý nhân viên",
+          "Hóa đơn thu chi",
+          "Hóa đơn xuất nhập",
+          "Thống kê doanh thu",
+          "Thống kê tồn kho",
+          "Chấm công & tính lương",
+          "SMS Marketing",
+          "Chấm công FaceID",
+          "Không giới hạ dung lượng",
+          "Miễn phí APP CSKH"
+        ]
+      },
+
+      {
+        "tag": "GÓI VIP",
+        "title": "vnđ 499.000",
+        "content": [
+          "Giá 1 tháng",
+          "Số lượng tài khoản 1",
+          "Số lượng chi nhánh 1",
+          "Đặt lịch hẹn Online",
+          "Quản lý tiêu hao dịch vụ",
+          "Quản lý sản phẩm",
+          "Quản lý dịch vụ",
+          "Quản lý thẻ liệu trình",
+          "Quản lý khách hàng",
+          "Quản lý phiếu thu",
+          "Quản lý nhân viên",
+          "Hóa đơn thu chi",
+          "Hóa đơn xuất nhập",
+          "Thống kê doanh thu",
+          "Thống kê tồn kho",
+          "Chấm công & tính lương",
+          "SMS Marketing",
+          "Chấm công FaceID",
+          "Không giới hạ dung lượng",
+          "Miễn phí APP CSKH"
+        ]
+      }
+    ]
+  },
+
+  "section3": {
+    "title": "COMBO THIẾT BỊ + PHẦN MỀM QUẢN LÝ",
+    "child": [
+      {
+        "title": "",
+        "content": [
+          "Máy in Rongta New K80mm",
+          "Phần mềm quản lý Salo: Gói cơ bản 24 tháng"
+        ],
+        "price": "6,216,000 VNĐ"
+      },
+
+      {
+        "title": "",
+        "content": [
+          "Máy in Rongta New K80mm",
+          "Phần mềm quản lý Salo: Gói cơ bản 24 tháng"
+        ],
+        "price": "6,216,000 VNĐ"
+      },
+
+      {
+        "title": "",
+        "content": [
+          "Máy in Rongta New K80mm",
+          "Phần mềm quản lý Salo: Gói cơ bản 24 tháng"
+        ],
+        "price": "6,216,000 VNĐ"
+      },
+
+      {
+        "title": "",
+        "content": [
+          "Máy in Rongta New K80mm",
+          "Phần mềm quản lý Salo: Gói cơ bản 24 tháng"
+        ],
+        "price": "6,216,000 VNĐ"
+      },
+
+      {
+        "title": "",
+        "content": [
+          "Máy in Rongta New K80mm",
+          "Phần mềm quản lý Salo: Gói cơ bản 24 tháng"
+        ],
+        "price": "6,216,000 VNĐ"
+      }
+    ],
+    "content": "Ngay cả khi bạn không trọn mua Combo kèm bộ thiết bị bán hàng. Bạn hãy lựa chọn các sản phẩm đơn lẻ bên dưới :"
+  },
+
+  "section4": {
+    "title": "LIÊN HỆ MUA HÀNG",
+    "content": [
+      "CÔNG TY CỔ PHẦN CÔNG NGHỆ SALO",
+      "Văn Phòng: Số 11 Ngõ 30 Trần Quý kiên, Dịch Vọng, Cầu Giấy, Hà Nội.",
+      "Trụ sở chính: Số 3E, ngách 72/19 đường Tựu Liệt, thị trấn Văn Điển, Thanh Trì, Hà Nội.",
+      "Mã số thuế: 0317595719 do sở KH & ĐT TP.Hà Nội cấp.",
+      "Hotline: +02998888683"
+    ]
+  },
+
+  "section5": {
+    "title": "Hãy để Salo giúp bạn trả lời một số câu hỏi trước khi mua Phần mềm quản lý SPA.",
+    "child": [
+      {
+        "title": "Phần mềm kết nối được máy in hóa đơn, máy quét mã vạch không?",
+        "content": "Có. Phần mềm quản lý Spa, Salon, Nail của Salo kết nối hầu hết các loại máy in A4, A5, Máy in bill khổ K58mm, K80mm. Đồng thời kết nối với máy quét mã vạch, Ngăn kéo đựng tiền..."
+      },
+      {
+        "title": "Những tính năng của một phần mềm quản lý chuyên nghiệp?",
+        "content": "Một phần mềm quản lý Spa, Salon, Nail tốt nhất hiện nay có thể đáp ứng đầy đủ các nhu cầu của bạn khi quản lý như: tính tiền tự động, in hóa đơn cho khách, quản lý dịch vụ, Liệu trình dịch vụ, quản lý thẻ trả trước, quản lý xuất nhập tồn kho chính xác, báo cáo doanh thu, lợi nhuận...Cùng một số tính năng khác. Hãy gọi cho chúng tôi để tìm hiểu thêm nhé."
+      },
+      {
+        "title": "Giá phần mềm quản lý bán hàng là bao nhiêu?",
+        "content": "Chỉ từ 159,000đ/ tháng là bạn đã có thể sở hữu phần mềm Salo, với không giới hạn các tính năng quản lý tại Spa, Salon, quản lý kho, quản lý doanh thu, lợi nhuận... Chi tiết bảng giá xem tại đây"
+      },
+      {
+        "title": "Tôi có được dùng thử trước khi mua phần mềm?",
+        "content": "Có. Bạn chỉ cần nhấn  vào nút Miễn phí dùng thử và điền đầy đủ thông tin, bạn có thể dùng thử miễn phí phần mềm quản lý Salo trong 15 ngày. Chuyên viên chăm sóc khách hàng của salo sẽ liên hệ lại bạn và hỗ trợ hướng dẫn bạn trải nghiệm phần mềm trong suốt thời gian này. Hoặc bạn có thể gọi Hotline: 02998888683 để được tư vấn miễn phí."
+      },
+      {
+        "title": "Salo có hỗ trợ tôi trong quá trình sử dụng không?",
+        "content": "Đội ngũ kỹ thuật, nhân viên kinh doanh, nhân viên chăm sóc khách hàng của salo sẽ luôn hỗ trợ tận tình cho bạn trong suốt quá trình sử dụng phần mềm Salo. Hotline 02998888683. Sẵn sàng giải đáp thắc mắc và yêu cầu của bạn tất cả các ngày trong tuần. Bạn có thể xem tất cả các tài liệu, video hướng dẫn tại mục hỗ trợ. Khi gia hạn hoặc đăng ký sử dụng phần mềm quản lý Salo bạn có cơ hội mua các thiết bị văn phòng với giá ưu đãi."
+      }
+    ],
+    "content": "Cảm ơn các bạn đã quan tâm phần mềm quản lý SPA của chúng tôi. Cần hỗ trợ thêm thông tin bạn vui lòng liên hệ chúng tôi theo thông tin dưới."
+  }
+}

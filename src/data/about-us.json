@@ -1,0 +1,206 @@
+{
+    "banner": {
+        "headline": "Về chúng tôi",
+        "title": "CAK - GIẢI PHÁP CHUYỂN ĐỔI SỐ TOÀN DIỆN",
+        "content": [
+            "CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ CAK Solution được thành lập lại vào ngày 30/06/2022 tiền thân hợp nhất từ 2 công ty là Công Ty TNHH Thương Mại Dịch Vụ IM SOLUTIONS (Chuyên cung cấp các giải pháp Marketing) và Công ty Cổ Phần Công Nghệ và Dịch Vụ AZIT (Chuyên về hệ thống website, phần mềm và lưu trữ dữ liệu).",
+            "Với thế mạnh là nền tảng công nghệ và con người, chúng tôi liên tục nâng cấp chất lượng dịch vụ để tạo lợi thế cạnh tranh giúp các doanh nghiệp vừa và nhỏ, cá nhân khởi nghiệp ứng dụng chuyển đổi số mang về doanh số với chi phí tối ưu nhất.",
+            "Chúng tôi cung cấp một hệ sinh thái toàn diện từ thiết kế website, triển khai chiến lược marketing đến hỗ trợ cung cấp các giải pháp lưu trữ dữ liệu, phần mềm quản lý, chuyển đổi số: CRM, HRM,…"
+        ]
+    },
+
+    "section1": {
+        "title": "TẦM NHÌN - SỨ MỆNH - GIÁ TRỊ CỐT LÕI",
+        "child": [
+            {
+                "title": "TẦM NHÌN",
+                "content": "Trở thành một công ty cung cấp các giải pháp chuyển đổi số toàn diện tại Việt Nam"
+            },
+            {
+                "title": "SỨ MỆNH",
+                "content": "Tạo ra những sản phẩm công nghệ và dịch vụ có giá trị cho khách hàng. Đồng hành cùng doanh nghiệp phát triển Internet, trở thành đối tác tin cậy cùng đồng hành và thúc đẩy sự thành công của khách hàng."
+            },
+            {
+                "title": "GIÁ TRỊ CỐT LÕI",
+                "content": [
+                    "CON NGƯỜI: tôn trọng đồng nghiệp, khách hàng, đối tác. Hăng sau cống hiến, khát khao chứng minh giá trị của cá nhân và tập thể.",
+                    "CÔNG NGHỆ: Ứng dụng chuyển đổi số tự động hoá mọi quy trình trong công ty giúp tối ưu hiệu suất làm việc và Ứng dụng công nghệ tiên tiến để nâng cao chất lượng dịch vụ.",
+                    "CHẤT LƯỢNG: tạo ra những sản phẩm công nghệ chất lượng mang đến giá trị lâu dài cho đối tác, khách hàng và người sử dụng. Dịch vụ đáp ứng sự tiện lợi và nhanh chóng cho mọi khách hàng."
+                ]
+            }
+        ]
+    },
+
+    "section2": {
+        "title": "CAK SOLUTION QUA NHỮNG CON SỐ",
+        "content": [
+            "7 + Năm Kinh Nghiệm",
+            "50 + Nhân Sự",
+            "20 + Dịch vụ & Sản Phẩm",
+            "1500 + Dự Án",
+            "700 + Khách Hàng",
+            "50 + Đối Tác"
+        ]
+    },
+
+    "section3": {
+        "title": "LÝ DO NÊN CHỌN CAK SOLUTION",
+        "content": "Chúng tôi vẫn liên tục hoàn thiện dịch vụ và nỗ lực hơn nữa để giúp cho nhiều đối tác và khách hàng phát triển bền vững !!!",
+        "child": [
+            {
+                "image": "https://mediaimages.vps.vn//undefined/2024/032024/12/12.png",
+                "content": "Chuyên viên tư vấn tận tâm, nắm vững các nhu cầu của khách hàng"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//undefined/2024/032024/12/16.png",
+                "content": "Liên tục cải tiến sản phẩm, dịch vụ giúp khách hàng có trải nghiệm tốt nhất"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//undefined/2024/032024/12/8.png",
+                "content": "Công nghệ mới nhất, hệ thống hoạt động ổn định, bảo mật cao"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//undefined/2024/032024/12/CRM%20(5).png",
+                "content": "Quy trình tiếp nhận và triển khai dự án chuyên nghiệp hàng đầu"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//undefined/2024/032024/12/15.png",
+                "content": "Kết nối chặt chẽ, tương tác và phản hồi liên tục trong dự án"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//undefined/2024/032024/12/1.png",
+                "content": "Đội ngũ có kinh nghiệm thực thi nhiều dự án đa dạng lĩnh vực khác nhau"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//gangthep.vn/2024/032024/13/CRM%20(1).png",
+                "content": "Trách nhiệm với sản phẩm, mang lại nhiều giá trị cho khách hàng"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//gangthep.vn/2024/032024/13/19.png",
+                "content": "Cam kết 100% khách hàng hài lòng với chất lượng dịch vụ"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//undefined/2024/032024/12/14.png",
+                "content": "Hỗ trợ đào tạo, tư vấn kinh nghiệm, xử lý lỗi trong quá trình sử dụng"
+            }
+        ]
+    },
+
+    "section4": {
+        "title": "THÀNH TỰU MÀ CAK SOLUTION ĐẠT ĐƯỢC",
+        "child": [
+            {
+                "title": 568,
+                "content": "Dự án đã triển khai"
+            },
+            {
+                "title": 500,
+                "content": "Khách hàng tiêu biểu"
+            },
+            {
+                "title": 7,
+                "content": "Năm kinh nghiệm"
+            },
+            {
+                "title": 30,
+                "content": "Đội ngũ nhân sự"
+            }
+        ],
+        "content": "Các khách hàng tiêu biểu đã và đang hợp tác cùng CAK SOLUTION"
+    },
+
+    "section5": {
+        "title": "HỆ SINH THÁI CÁC DỊCH VỤ CỦA CAK SOLUTION",
+        "content": "Tích hợp quản lý mọi ứng dụng website, dịch vụ marketing và bán hàng trên một nền tảng",
+        "child": [
+            {
+                "title": "XÂY DỰNG THƯƠNG HIỆU",
+                "content": [
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Thiết kế web theo mẫu"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Thiết kế web theo yêu cầu"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Thiết kế LandingPage"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Thiết kế thương hiệu"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Chăm sóc website"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Tối ưu website"
+                    }
+                ]
+            },
+
+            {
+                "title": "QUẢNG CÁO & TRUYỀN THÔNG",
+                "content": [
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Tư vấn chiến lược marketing"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Quảng cáo Google Ads"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Quảng cáo Facebook Ads"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Dịch vụ Content Marketing"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Dịch vụ SEO tổng thể"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Phòng marketing thuê ngoài"
+                    }
+                ]
+            },
+            {
+                "title": "HẠ TẦNG LƯU TRỮ",
+                "content": [
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Đăng ký tên miền"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Chứng chỉ bảo mật SSL"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Hosting chất lượng cao"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Cloud VPS"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Email theo tên miền"
+                    },
+                    {
+                        "href": "https://cak-solution.com/",
+                        "text": "Google Workspace"
+                    }
+                ]
+            }
+        ]
+    }
+}

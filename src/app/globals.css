@@ -1,0 +1,264 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  /* background: transparent; */
+  visibility: hidden;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  /* background: #c4c4c4; */
+  /* background: rgba(0,0,0,0.5); */
+  background-color: #babac0;
+  border-radius: 4px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+::-webkit-scrollbar:window-inactive {
+  visibility: hidden;
+}
+
+
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 20 14.3% 4.1%;
+    --card: 0 0% 100%;
+    --card-foreground: 20 14.3% 4.1%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 20 14.3% 4.1%;
+    --primary: 24.6 95% 53.1%;
+    --primary-foreground: 60 9.1% 97.8%;
+    --secondary: 60 4.8% 95.9%;
+    --secondary-foreground: 24 9.8% 10%;
+    --muted: 60 4.8% 95.9%;
+    --muted-foreground: 25 5.3% 44.7%;
+    --accent: 60 4.8% 95.9%;
+    --accent-foreground: 24 9.8% 10%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 60 9.1% 97.8%;
+    --border: 20 5.9% 90%;
+    --input: 20 5.9% 90%;
+    --ring: 24.6 95% 53.1%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 20 14.3% 4.1%;
+    --foreground: 60 9.1% 97.8%;
+    --card: 20 14.3% 4.1%;
+    --card-foreground: 60 9.1% 97.8%;
+    --popover: 20 14.3% 4.1%;
+    --popover-foreground: 60 9.1% 97.8%;
+    --primary: 20.5 90.2% 48.2%;
+    --primary-foreground: 60 9.1% 97.8%;
+    --secondary: 12 6.5% 15.1%;
+    --secondary-foreground: 60 9.1% 97.8%;
+    --muted: 12 6.5% 15.1%;
+    --muted-foreground: 24 5.4% 63.9%;
+    --accent: 12 6.5% 15.1%;
+    --accent-foreground: 60 9.1% 97.8%;
+    --destructive: 0 72.2% 50.6%;
+    --destructive-foreground: 60 9.1% 97.8%;
+    --border: 12 6.5% 15.1%;
+    --input: 12 6.5% 15.1%;
+    --ring: 20.5 90.2% 48.2%;
+  }
+}
+
+
+  
+
+@layer base {
+  * {
+    @apply border-border;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: auto;
+    -moz-osx-font-smoothing: auto;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+/* My Custom Styles: */
+.my-transform-custom:hover {
+	box-shadow: 2px 4px 16px #00000029;
+	transform: scale3d(1.01, 1.01, 1.01);
+	transition: all .3s cubic-bezier(0,0,.5,1);
+}
+
+.my-contact-transform--header:hover {
+	transform: scale3d(1.01, 1.01, 1.01);
+	transition: all .3s cubic-bezier(0,0,.5,1);
+}
+
+.my-contact-btn {
+    position: relative;
+    background: linear-gradient(to bottom, #FEB526, #FF823D);
+    color: #fff;
+    text-shadow: 1px 1px 0px rgba(45, 15, 0, 0.2);
+    font-size: 16px;
+    font-weight: 600;
+    padding: 18px 30px;
+    border: 0px solid;
+    box-shadow: 0px 15px 8px -3px rgba(0, 0, 0, 0.15);
+    margin-top: 17px;
+}
+
+.my-contact-btn::after {
+	  content: "0299 88 88 683";
+    position: absolute;
+	  color: #f97316;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 60px;
+    top: 0px;
+    border-radius: 12px;
+    /* background: linear-gradient(to bottom, #19e5cd, #08b1b9); */
+	  background-color: #fff;
+    --tw-ring-inset: inset;
+    --tw-ring-color: #f97316;
+    box-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+    /* background-image: linear-gradient(319deg, #faa499 0%, #f7dd85 37%, #ffc55c 100%); */
+    transform: scale(0);
+    transition: all .3s;
+    transition-timing-function: ease-out;
+}
+	/* The result when hover on btn: */
+.my-contact-btn:hover::after {
+	transform: scale(1);
+}
+
+.my-contact-btn--header {
+    font-size: 16px;
+    font-weight: 800;
+    padding: 14px 20px;
+	  /* color: #f97316; */
+	  color: #fff;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 60px;
+    border-radius: 12px;
+	  /* background-color: #fff; */
+    background: linear-gradient(to bottom, #FEB526, #FF823D);
+    --tw-ring-inset: inset;
+    --tw-ring-color: #f97316;
+    text-shadow: 1px 1px 0px rgba(45, 15, 0, 0.2);
+    box-shadow: 3px 9px 6px #f8eed3;
+}
+
+.menu-underline--hover {
+  position: relative;
+  letter-spacing: 0.5px;
+
+}
+
+.menu-underline--hover::after {
+  content: "";
+  position: absolute;
+  background: linear-gradient(to bottom, #FEB526, #FF823D);
+  height: 2.5px;
+  width: 0;
+  left: 0;
+  bottom: 0;
+  transition: all ease-out 0.3s;
+}
+
+.menu-underline--hover:hover:after {
+  width: 100%;
+}
+
+.hovercardcontent--padd::after {
+  content: "";
+  position: absolute;
+  height: 48px;
+  width: 100%;
+  left: 0;
+  top: -5px;
+}
+
+.my-clip-path--banner {
+  clip-path: polygon(0 0,100% 0,100% 80%,0 100%);
+}
+
+.my-center-gototop {
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.my-hover-scale--img:hover img {
+	/* transform: scale3d(1.01, 1.01, 1.01); */
+  transform: scale(1.1);
+  overflow: hidden;
+}
+
+.my-cover-bg {
+  background: url('../../public/images/contact-us.jpg') center / cover no-repeat;
+  object-fit: auto;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+  
+.my-text-shadow {
+  text-shadow: 3px 3px 6px #f1f1f1;
+}
+
+
+.my-rotate-down-check:hover > svg {
+	transform: rotate(-180deg);
+}
+
+.my-translate-right-arrow:hover > svg {
+	transform: translateX(.2rem);
+}
+
+.my-box-shadow-header {
+  box-shadow: 0 0 22px rgba(0, 0, 0, .1);
+}
+/* MY END! */
+
+
+.border-text {
+  text-shadow: 2px 0 #23256d, -2px 0 #23256d, 0 2px #23256d, 0 -2px #23256d, 1px 1px #23256d, -1px -1px #23256d, 1px -1px #23256d, -1px 1px #23256d;
+}
+.card-new{
+  background-color: rgb(255, 255, 255);
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-image: none;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 10px 10px 36px rgba(0,0,0,0.08);;
+  border-radius: 16px;
+  z-index: 0;
+  margin: 0!;
+}
+.tour-detail-section ul{
+  list-style: disc;
+  margin-left: 20px;
+}

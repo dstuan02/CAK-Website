@@ -1,0 +1,515 @@
+{
+    "banner": {
+        "title": "DỊCH VỤ QUẢNG CÁO GOOGLE ADS",
+        "content": "Thu hút đúng đối tượng khách hàng tiềm năng và tăng doanh số nhanh chóng với Dịch vụ Quảng cáo Google Ads!",
+        "child": [
+            {
+                "title": "KÝ HĐ 3 THÁNG",
+                "content": [
+                    "Giảm 20% tổng phí dịch vụ quản lý",
+                    "Tặng Website chuyên nghiệp trị giá 3tr9"
+                ]
+            },
+            {
+                "title": "KÝ HĐ 3 THÁNG",
+                "content": [
+                    "Giảm 30% tổng phí dịch vụ quản lý",
+                    "Tặng Website chuyên nghiệp trị giá 6tr9"
+                ]
+            },
+            {
+                "title": "KÝ HĐ 3 THÁNG",
+                "content": [
+                    "Giảm 40% tổng phí dịch vụ quản lý",
+                    "Tặng Website chuyên nghiệp trị giá 9tr9"
+                ]
+            }
+        ],
+        "bannerImage": "http://localhost:4401/_next/static/media/google-marketing.ebfca642.svg"
+    },
+
+    "section1": {
+        "title": "TẠI SAO BẠN NÊN CHẠY QUẢNG CÁO GOOGLE ADS",
+        "des": "Chạy quảng cáo Google Ads giúp Tăng lưu lượng truy cập Website, Tăng độ phủ thương hiệu, Thu hút thêm nhiều khách hàng mới tiềm năng và Nâng cao doanh số bán hàng nhanh chóng.",
+        "content": [
+            "Giúp Website của bạn hiển thị ở vị trí Top đầu Google tìm kiếm.",
+            "Tăng lượt khách hàng mới truy cập vào Website.",
+            "Khách hàng có thể dễ dàng tìm thấy Website của bạn hơn.",
+            "Giúp Tiếp cận đúng tệp đối tượng khách hàng mục tiêu.",
+            "Dễ dàng theo dõi, tối ưu và đo lường hiệu quả.",
+            "Ngân sách linh hoạt khởi đầu chỉ từ 160k/ ngày."
+        ],
+        "AdsImage": "http://localhost:4401/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgg-ads.3f96efac.jpg&w=3840&q=75"
+    },
+
+    "section2": {
+        "title": "VỚI ĐA DẠNG CHIẾN DỊCH QUẢNG CÁO KHÁC NHAU",
+        "content": "CÁC KÊNH QUẢNG CÁO GOOGLE ADS HIỆU QUẢ GIÚP TÌM KIẾM KHÁCH HÀNG MỚI VÀ BỨT PHÁ DOANH THU ONLINE NHANH CHÓNG",
+        "child": [
+            {
+                "title": "Chiến Dịch Tìm Kiếm (Google Search)",
+                "content": "Giúp tiếp cận đúng khách hàng tiềm năng khi họ đang tìm kiếm các sản phẩm dịch vụ tương tự của bạn trên trang 1 Google tìm kiếm.",
+                "image": "https://cdn-icons-png.flaticon.com/128/2977/2977735.png"
+            },
+            {
+                "title": "Chiến Dịch Tiếp Thị Lại (Google Remakreting)",
+                "content": "Giúp theo đuổi khách hàng tiềm năng với những người đã ghé vào website của bạn và kéo họ quay trở lại Website một lần nữa.",
+                "image": "https://cdn-icons-png.flaticon.com/128/9623/9623777.png"
+            },
+            {
+                "title": "Chiến Dịch Hiển Thị (Display Network)",
+                "content": "Giúp tiếp cận 90% người dùng Internet khi họ đang ở trên các trang web, ứng dụng thuộc mạng hiển thị (GDN) của Google.",
+                "image": "https://cdn-icons-png.flaticon.com/128/8744/8744776.png"
+            },
+            {
+                "title": "Chiến Dịch Mua Sắm (Google Shopping)",
+                "content": "Giúp hiển thị ảnh sản phẩm cùng với tên sản phẩm, mô tả giá bán, tên cửa hàng,... Nổi bật hơn khi khách hàng tìm kiếm thông tin.",
+                "image": "https://cdn-icons-png.flaticon.com/128/1170/1170576.png"
+            },
+            {
+                "title": "Chiến Dịch Videos (Youtube Ads)",
+                "content": "Giúp hiển thị quảng cáo trong các video trên YouTube cũng như trên trang web và ứng dụng của các đối tác video của Google.",
+                "image": "https://cdn-icons-png.flaticon.com/128/12198/12198893.png"
+            },
+            {
+                "title": "Chiến Dịch Địa Phương (Local Campaign)",
+                "content": "Giúp thu hút các khách hàng ở gần doanh nghiệp của bạn dễ dàng tìm được thông tin, vị trí, cách để đi đến cửa hàng của bạn.",
+                "image": "https://cdn-icons-png.flaticon.com/128/5509/5509162.png"
+            },
+            {
+                "title": "Chiến Dịch Ứng Dụng (App)",
+                "content": "Giúp quảng bá ứng dụng và tăng lượt tải trên các mạng quảng cáo lớn của Google (Youtube, Google Tìm kiếm, Google Play,…).",
+                "image": "https://cdn-icons-png.flaticon.com/128/11078/11078771.png"
+            },
+            {
+                "title": "Chiến Dịch Thông Minh (Smart Campaign)",
+                "content": "Giúp làm nổi bật các ưu, lợi điểm khi bán hàng của doanh nghiệp, thu hút khách hàng tiềm năng dựa vào bộ chủ đề từ khóa.",
+                "image": "https://cdn-icons-png.flaticon.com/128/1172/1172575.png"
+            }
+        ]
+    },
+
+    "section3": {
+        "title": "LỰA CHỌN GÓI DỊCH VỤ GOOGLE ADS PHÙ HỢP VỚI BẠN",
+        "content": " dịch vụ tốt nhất thị trường!",
+        "child": [
+            {
+                "valueTrigger": "account",
+                "title": "QUẢN LÝ TÀI KHOẢN",
+                "children": [
+                    {
+                        "title": "ADS 01",
+                        "price": "< 20.000.000 ₫",
+                        "times": "/tháng",
+                        "color": "#ff832b",
+                        "content": [
+                            "Phí dịch vụ quản lý 20%/ ngân sách chạy",
+                            "Tư vấn chiến lược Marketing tinh gọn",
+                            "Lập kế hoạch triển khai quảng cáo chuyên nghiệp theo sản phẩm/ dịch vụ kinh doanh",
+                            "Loại hình Setup: Google Search, Tiếp thị lại",
+                            "Setup tối đa 5 chiến dịch chạy",
+                            "Tối đa 50 từ khoá chạy chính được đề xuất hoặc lựa chọn theo yêu cầu",
+                            "Không giới hạn chạy từ khoá phụ (số lượng từ khoá phụ được bổ sung liên tục dựa theo mức ngân sách chạy)",
+                            "Vị trí top hiển thị 1-4 hoặc 1-7",
+                            "Thời gian hiển thị quảng cáo set theo yêu cầu",
+                            "Khu vực chạy quảng cáo tuỳ chọn",
+                            "Theo dõi đo lường, tối ưu quảng cáo hàng ngày",
+                            "Lọc chặn từ khóa phủ định, hạn chế chặn click ảo",
+                            "Báo cáo dữ liệu quảng cáo hàng tuần/ hàng tháng"
+                        ],
+                        "gift": {
+                            "content": [
+                                "Giảm giá 15% khi đăng ký các gói dịch vụ Chăm sóc Website/ Tạo và Chăm sóc Fanpage",
+                                "Giảm giá 15% khi đăng ký các dịch vụ Thiết kế Website"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "ADS 02",
+                        "price": "40.000.000 ₫",
+                        "times": "/tháng",
+                        "color": "#00d084",
+                        "content": [
+                            "50.000.000 ₫",
+                            "Phí dịch vụ quản lý 18%/ ngân sách chạy",
+                            "Tư vấn chiến lược Marketing chuyên sâu",
+                            "Lập kế hoạch triển khai quảng cáo chuyên sâu theo mô hình sản phẩm/ dịch vụ kinh doanh",
+                            "Loại hình Setup: Google Search, GDN, Tiếp thị lại",
+                            "Setup tối đa 15 chiến dịch chạy",
+                            "Tối đa 100 từ khoá chạy chính được đề xuất hoặc lựa chọn theo yêu cầu",
+                            "Không giới hạn chạy từ khoá phụ (số lượng từ khoá phụ được bổ sung liên tục dựa theo mức ngân sách chạy)",
+                            "Vị trí top chạy theo yêu cầu",
+                            "Thời gian hiển thị quảng cáo set theo yêu cầu",
+                            "Khu vực chạy quảng cáo tuỳ chọn",
+                            "Theo dõi đo lường, tối ưu quảng cáo hàng ngày",
+                            "Cài đặt theo dõi chuyển đổi chuyên sâu",
+                            "Lọc, chặn từ khóa phủ định, ngăn chặn click ảo",
+                            "Tần suất báo cáo hằng ngày và xem trực tiếp số liệu quảng cáo trên tài khoản được share quyền"
+                        ],
+                        "gift": {
+                            "content": [
+                                "Giảm giá 20% khi đăng ký các gói dịch vụ Chăm sóc Website/ Tạo và Chăm sóc Fanpage",
+                                "Giảm giá 20% khi đăng ký các gói dịch vụ Thiết kế Website"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "ADS 03",
+                        "price": "> 50.000.000 ₫",
+                        "times": "/tháng",
+                        "color": "#25b1ca",
+                        "content": [
+                            "Phí dịch vụ quản lý thoả thuận dựa vào lĩnh vực quảng cáo và theo mức ngân sách chạy",
+                            "Tư vấn chiến lược Marketing theo giải pháp",
+                            "Lập kế hoạch triển khai quảng cáo theo giải pháp chuyên sâu",
+                            "TLoại hình Setup: Google Search, GDN, Tiếp thị lại, Youtube, Shopping",
+                            "Setup chạy theo KPI yêu cầu: CPA, Conversion",
+                            "Số lượng chiến dịch theo yêu cầu",
+                            "Từ khoá chính chọn theo yêu cầu hoặc đề xuất theo giải pháp",
+                            "Không giới hạn chạy từ khoá phụ (số lượng từ khoá phụ được bổ sung liên tục dựa theo mức ngân sách chạy)",
+                            "Vị trí top chạy theo giải pháp",
+                            "Thời gian hiển thị quảng cáo theo giải pháp",
+                            "Khu vực chạy quảng cáo tuỳ chọn",
+                            "Theo dõi đo lường, tối ưu quảng cáo hàng ngày",
+                            "Cài đặt theo dõi chuyển đổi chuyên sâu",
+                            "Lọc, chặn từ khóa phủ định, ngăn chặn click ảo",
+                            "Tần suất báo cáo hằng ngày và xem trực tiếp số liệu quảng cáo trên tài khoản được share quyền"
+                        ],
+                        "gift": {
+                            "content": [
+                                "Giảm giá 25% khi đăng ký các gói dịch vụ Chăm sóc Website/ Tạo và Chăm sóc Fanpage",
+                                "Giảm giá 25% khi đăng ký các dịch vụ Thiết kế Website"
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "valueTrigger": "password",
+                "title": "THUÊ SETUP TÀI KHOẢN",
+                "children": [
+                    {
+                        "title": "TIÊU CHUẨN",
+                        "price": "1.900.000 ₫",
+                        "times": "/lần",
+                        "color": "#ff832b",
+                        "content": [
+                            "Phù hợp cho mức ngân sách dưới 50 triệu/tháng",
+                            "Full Setup chuẩn Google Ads cơ bản",
+                            "5 chiến dịch Google Search hoặc Google Display",
+                            "1 chiến dịch tiếp thị lại – Remarketing",
+                            "Tư vấn chọn từ khóa phù hợp với dịch vụ/ sản phẩm",
+                            "Chia nhóm từ khóa đã chọn",
+                            "Đề xuất nội dung viết mẫu quảng cáo theo bộ, nhóm từ khóa đã chia",
+                            "Cài đặt theo dõi chuyển đổi",
+                            "Cài đặt các tiện ích mở rộng",
+                            "Bàn giao tài khoản & hướng dẫn sử dụng",
+                            "Hỗ trợ tối ưu tài khoản quảng cáo trong 15 ngày"
+                        ]
+                    },
+                    {
+                        "title": "CHUYÊN NGHIỆP",
+                        "price": "3.000.000 ₫",
+                        "times": "/lần",
+                        "color": "#00d084",
+                        "content": [
+                            "Phù hợp cho mức ngân sách dưới 100 triệu/tháng",
+                            "Full Setup chuẩn Google Ads nâng cao",
+                            "Tối đa 10 chiến dịch Search, Remarketing",
+                            "Tối đa 15 chiến dịch GDN, Discovery",
+                            "Tư vấn chọn từ khóa phù hợp với dịch vụ/ sản phẩm",
+                            "Chia nhóm từ khóa đã chọn",
+                            "Đề xuất nội dung viết mẫu quảng cáo theo bộ, nhóm từ khóa đã chia",
+                            "Cài đặt theo dõi chuyển đổi",
+                            "Cài đặt các tiện ích mở rộng",
+                            "Theo dõi tín hiệu Ads",
+                            "Tính năng website nâng cao theo yêu cầu",
+                            "Tích hợp kết nối đa kênh bán hàng",
+                            "Lọc từ khoá phủ định, chặn click tặc",
+                            "Bàn giao tài khoản & hướng dẫn sử dụng",
+                            "Hỗ trợ tối ưu tài khoản quảng cáo trong 30 ngày"
+                        ]
+                    },
+                    {
+                        "title": "GIẢI PHÁP",
+                        "price": "2 – 10% ",
+                        "times": "/ngân sách",
+                        "color": "#25b1ca",
+                        "content": [
+                            "Phù hợp cho mức ngân sách từ 100 triệu/tháng",
+                            " Full Setup chuẩn Google Ads tăng trưởng",
+                            "15+ chiến dịch Search, Remarketing",
+                            "20+ chiến dịch GDN, Discovery",
+                            "Tư vấn chọn từ khóa phù hợp với dịch vụ/ sản phẩm",
+                            "Chia nhóm từ khóa đã chọn",
+                            "Đề xuất nội dung viết mẫu quảng cáo theo bộ, nhóm từ khóa đã chia",
+                            "Cài đặt theo dõi chuyển đổi",
+                            "Cài đặt các tiện ích mở rộng",
+                            "Chạy theo KPI: CPA, Conversion…",
+                            "Theo dõi tín hiệu Ads",
+                            "Lọc từ khoá phủ định, chặn click tặc",
+                            "Bàn giao tài khoản & đồng hành quản trị",
+                            "Hỗ trợ tối ưu tài khoản quảng cáo hằng ngày"
+                        ],
+                        "gift": {
+                            "content": [
+                                "Giảm giá 20% khi đăng ký các gói dịch vụ chăm sóc website",
+                                "Giảm giá 30% khi đăng ký các gói dịch vụ thiết kế website",
+                                "Hỗ trợ tư vấn chiến lược Marketing"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "contact": {
+            "title": "Để có báo giá chính xác và tốt nhất khách hàng vui lòng liên hệ:",
+            "content": [
+                {
+                    "text": "Hotline : 02998888683 !",
+                    "className": "text-white bg-red"
+                },
+                {
+                    "text": "Tổng đài miễn phí : 02998888683",
+                    "className": "text-white bg-heading"
+                }
+            ]
+        }
+    },
+    
+    "section4": {
+        "title": "Với Google Ads bạn có thể điều chỉnh ngân sách Quảng cáo Phù hợp với chiến lược Marketing của bạn",
+        "content": "Tuỳ vào mục tiêu kinh doanh của bạn chúng tôi sẽ xây dựng một chiến lược cụ thể với các hình thức quảng cáo và chỉ số đo lường khác nhau",
+        "child": [
+            {
+                "title": "MỤC TIÊU BÁN HÀNG",
+                "content": [
+                    "Với các chỉ số đo:",
+                    "CPC, lượt truy cập website",
+                    "CPA",
+                    "Lượt chuyển đổi",
+                    "ROAS",
+                    "Doanh số"
+                ],
+                "image": "https://cdn-icons-png.flaticon.com/128/5509/5509162.png"
+            },
+            {
+                "title": "MỤC TIÊU THƯƠNG HIỆU",
+                "content": [
+                    "Với các chỉ số đo:",
+                    "Lượt hiển thị",
+                    "Lượt xem videos",
+                    "Lượt tương tác quảng cáo",
+                    "Tầng suất hiển thị"
+                ],
+                "image": "https://cdn-icons-png.flaticon.com/128/9422/9422835.png"
+            }
+        ]
+    },
+
+    "section5": {
+        "title": "QUY TRÌNH QUẢNG CÁO GOOGLE ADS",
+        "content": "Chúng tôi áp dụng quy trình tiếp nhận & triển khai Dịch vụ chạy Quảng cáo Google Ads chặt chẽ, đảm bảo mang lại thành công cho dự án!",
+        "child": [
+            {
+                "title": "TIẾP NHẬN & NGHIÊN CỨU",
+                "content": [
+                    "Tiếp nhận thông tin, yêu cầu",
+                    "Nghiên cứu thị trường ngành",
+                    "Nghiên cứu hành vi khách hàng",
+                    "Nghiên cứu đối thủ cạnh tranh",
+                    "Nghiên cứu mô hình sản phẩm/ dịch vụ"
+                ]
+            },
+            {
+                "title": "TƯ VẤN CHIẾN LƯỢC & BÁO GIÁ",
+                "content": [
+                    "Định hướng chiến lược triển khai chạy Google Ad",
+                    "Tư vấn phân tích tối ưu nền tảng Marketing",
+                    "Xây dựng bộ từ khóa chính sơ bộ",
+                    "Báo giá đề xuất, gợi ý các gói mức ngân sách chạy và dự kiến kết quả đạt được"
+                ]
+            },
+            {
+                "title": "KÝ HỢP ĐỒNG & THANH TOÁN",
+                "content": [
+                    "Tạo hợp đồng với các điều khoản được thống nhất đảm bảo quyền lợi cho các bên",
+                    "Ký kết hợp đồng Online bằng chữ ký số hoặc Ký tay trực tiếp với quý khách hàng",
+                    "Thực hiện thanh toán để khởi tạo và triển khai dự án theo đúng kế hoạch, lộ trình đề ra"
+                ]
+            },
+            {
+                "title": "TRIỂN KHAI QUẢNG CÁO",
+                "content": [
+                    "Lập kế hoạch triển khai quảng cáo dựa trên file Brief đã thu thập và phân tích: Xây dựng bộ từ khoá chạy chi tiết; Phân loại nhóm quảng cáo theo mô hình AIDA; Viết mẫu quảng cáo hấp dẫn, hút khách hàng click; Lên lộ trình tối ưu quảng cáo theo các giai đoạn chạy;…",
+                    "Khởi tạo tài khoản và các chiến dịch quảng cáo theo như kế hoạch đã thống nhất"
+                ]
+            },
+            {
+                "title": "THEO DÕI & TỐI ƯU QUẢNG CÁO",
+                "content": [
+                    "Theo dõi & phân tích số liệu quảng cáo hằng ngày để đưa ra các điều chỉnh phù hợp theo các giai đoạn",
+                    "Lọc và chặn phủ định các từ khoá không hiệu quả",
+                    "Thực hiện các giải pháp ngăn chặn click ảo, giảm phá quảng cáo",
+                    "Thực hiện bổ sung chạy thêm từ khoá phụ liên quan để đạt hiệu suất tốt nhất dựa theo mức ngân sách quảng cáo chạy của quý khách hàng",
+                    "Thực hiện các việc tối ưu chuyên sâu tuỳ thuộc vào tình hình thị trường, đối thủ của quý khách",
+                    "Tối ưu chi phí thấp nhất / chuyển đổi khách hàng",
+                    "Đề xuất tối ưu lại các trang đích giới thiệu về dịch vụ/ sản phẩm trước khi chạy chiến dịch quảng cáo",
+                    "Đề xuất các giải pháp xây dựng, tối ưu hơn cho Website để tăng trải nghiệm, thu hút khách hàng khi vào Website"
+                ]
+            },
+            {
+                "title": "ĐỒNG HÀNH CÙNG PHÁT TRIỂN",
+                "content": [
+                    "Báo cáo mức độ cạnh tranh",
+                    "Báo cáo về ngân sách theo tài khoản và các chiến dịch quảng cáo đã chạy",
+                    "Kết quả đạt được lượt nhấp click vào quảng cáo",
+                    "Đề xuất cải tiến, cập nhập các nền tảng truyền thông các kênh giới thiệu sản phẩm/ dịch vụ (nếu có) để hút khách hàng, tăng tỷ lệ chuyển đổi thực tế",
+                    "Đề xuất, gợi ý tối ưu mô hình kinh doanh để tăng trải nghiệm sản phẩm/ dịch vụ đến khách hàng để cùng gắn bó đồng hành lâu dài cùng quý khách hàng"
+                ]
+            }
+        ]
+    },
+
+    "section6": {
+        "title": "9 LÝ DO NÊN CHỌN QUẢNG CÁO GOOGLE ADS TẠI CAK SOLUTION",
+        "content": "Chúng tôi vẫn liên tục hoàn thiện dịch vụ và nỗ lực hơn nữa để giúp cho nhiều đối tác và khách hàng phát triển bền vững!",
+        "child": [
+            {
+                "image": "https://mediaimages.vps.vn//undefined/2024/032024/12/12.png",
+                "title": "Chuyên viên tư vấn kinh nghiệm, hỗ trợ tận tình từ A-Z"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//undefined/2024/032024/12/16.png",
+                "title": "Dịch vụ toàn diện, trọn gói hoặc linh hoạt mức ngân sách theo nhu cầu"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//undefined/2024/032024/12/8.png",
+                "title": "Là 1 trong những đối tác đại lý chính thức của Google tại Việt Nam"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//undefined/2024/032024/12/CRM%20(5).png",
+                "title": "Quy trình tiếp nhận và triển khai dự án bài bản, chuyên nghiệp"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//undefined/2024/032024/12/15.png",
+                "title": "Kết nối chặt chẽ, tương tác và phản hồi liên tục trong dự án"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//undefined/2024/032024/12/1.png",
+                "title": "Đội ngũ có kinh nghiệm chạy nhiều dự án ở đa ngành nghề, khó lên quảng cáo"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//gangthep.vn/2024/032024/13/CRM%20(1).png",
+                "title": "Nguồn cơ sở dữ liệu có sẵn của chúng tôi đã được minh chứng độ hiệu quả"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//gangthep.vn/2024/032024/13/19.png",
+                "title": "Cam kết 100% khách hàng hài lòng với chất lượng dịch vụ quảng cáo"
+            },
+            {
+                "image": "https://mediaimages.vps.vn//undefined/2024/032024/12/14.png",
+                "title": "Báo cáo minh bạch chi phí và dữ liệu chạy quảng cáo đầy đủ, rõ ràng"
+            }
+        ]
+    },
+
+    "section7": {
+        "title": "THÀNH TỰU MÀ CAK SOLUTION ĐẠT ĐƯỢC",
+        "content": "Đa dạng về quy mô và loại hình kinh doanh, đã có hơn 100 khách hàng trở thành đối tác của CAK Solution.",
+        "child": [
+            {
+                "title": 568,
+                "content": "Dự án đã triển khai"
+            },
+            {
+                "title": 500,
+                "content": "Khách hàng tiêu biểu"
+            },
+            {
+                "title": 7,
+                "content": "Năm kinh nghiệm"
+            },
+            {
+                "title": 30,
+                "content": "Đội ngũ nhân sự"
+            }
+        ]
+    },
+    
+    "section8": {
+        "title": "CÁC CÂU HỎI THƯỜNG GẶP",
+        "child": [
+            {
+                "label": "1. Quảng cáo Google Ads là gì?",
+                "children": [
+                    "Quảng cáo Google (Google Ads) là hình thức quảng cáo trực tuyến trả phí dành cho các doanh nghiệp muốn quảng bá thương hiệu, sản phẩm, dịch vụ trên công cụ tìm kiếm Google.Một chiến lược nổi bật của Google Ads là quảng cáo trả tiền cho mỗi lần nhấp chuột (PPC - Pay per click).Đây là chương trình quảng cáo trực tiếp của Google cho phép người dùng đăng tải những quảng cáo về sản phẩm hay dịch vụ của mình đến những khách hàng mục tiêu cụ thể và trả tiền cho mỗi lần nhấp chuột hoặc mỗi lần hiển thị (CPM) trên một quảng cáo.",
+                    "Với hành vi của người tiêu dùng hiện nay đều phụ thuộc vào việc tìm kiếm trên Google.Người tiêu dùng bắt đầu tìm hiểu, xem xét và quyết định mua sản phẩm đều diễn ra nhiều ở Google. Do đó, việc đầu tư vào quảng cáo ngay khi họ có nhu cầu cũng như nắm bắt được thời điểm hợp lý sẽ tạo nên sự đột phá trong doanh thu."
+                ]
+            },
+            {
+                "label": "2. Tại sao Quảng cáo Google Ads lại hiệu quả cao?",
+                "children": [
+                    "Không giống với các nền tảng quảng cáo khác, Google đem lại cho bạn giải pháp hiệu quả cao, vì:",
+                    "- Tiếp cận đúng với nhu cầu tìm kiếm của người dùng",
+                    "- Nền tảng khổng lồ, đa dạng, thống trị lĩnh vực tìm kiếm",
+                    "- Thương hiệu Google có sự tin cậy cao",
+                    "- Công cụ quảng cáo tiện ích, nhắm mục tiêu chi tiết, hỗ trợ kiểm soát toàn bộ chiến dịch dễ dàng",
+                    "- Thuật toán phân tích, dự đoán hành vi thông minh"
+                ]
+            },
+            {
+                "label": "3. Các Hình Thức Dịch Vụ Quảng Cáo Google Ads tại CAK Solution?",
+                "children": [
+                    "1. TRỌN GÓI là hình thức báo giá theo tháng không phát sinh chi phí dựa theo yêu cầu về từ khóa, vị trí và khu vực. Chúng tôi sẽ cam kết hoàn thành đúng theo KPI và những yêu cầu đã thống nhất với khách hàng.=> Phù hợp với những doanh nghiệp vừa, doanh nghiệp có yêu cầu nghiêm ngặt về KPI’s.",
+                    "2. QUẢN LÝ TÀI KHOẢN là hình thức mà ngân sách quảng cáo do khách hàng quyết định. Chúng tôi nhận setup chiến dịch dựa trên ngân sách này, 100% ngân sách sẽ trả cho Google.Ngoài ra, khách hàng cần phải trả thêm khoản PHÍ QUẢN LÝ chiến dịch được tính theo % trên cho ngân sách chạy.=> Phù hợp với doanh nghiệp vừa và nhỏ, có nhu cầu được quản lý tài khoản một cách bài bản và chuyên nghiệp với đội ngũ kỹ thuật viên của CAK Solution, hoạt động như một phòng kỹ thuật Ads thuê ngoài.",
+                    "3. THUÊ TÀI KHOẢN là hình thức mà ngân sách quảng cáo do khách hàng quyết định. Ngoài ra, khách hàng cần phải trả thêm khoản PHÍ THUÊ TÀI KHOẢN được tính theo % trên cho ngân sách chạy.=> Phù hợp với những doanh nghiệp đang gặp vấn đề trong việc tạo lập tài khoản,cần hỗ trợ hay muốn sử dụng tài khoản quảng cáo của một đại lý uy tín của Google.",
+                    "4. SETUP TÀI KHOẢN QUẢNG CÁO THEO YÊU CẦU là dịch vụ Setup tài khoản Quảng cáo và nhận được tài khoản triển khai nhanh trong 24 giờ. => Phù hợp cho các doanh nghiệp vừa và nhỏ hoặc cá nhân kinh doanh."
+                ]
+            },
+            {
+                "label": "4. Tôi cần thanh toán trước bao nhiêu phần trăm khi ký hợp đồng thiết kế web?",
+                "children": [
+                    "- Khách Hàng Chọn Ngân Sách Chạy Ads / Tháng: Doanh nghiệp xác định chi phí dịch vụ chạy quảng cáo Google Ads / tháng (ví dụ: 50 triệu/tháng), khách hàng chuyển 50 triệu cho chúng tôi, Chúng tôi sẽ nạp hết 50 triệu cho Google để dùng chạy Ads. Chúng tôi nhận thêm % chi phí dịch vụ quản lý tài khoản quảng cáo Google (10%-20%) tuỳ theo ngân sách và độ phức tạp của dự án khi chạy.",
+                    "- Setup Quảng Cáo & Tối Ưu Hiệu Quả Quảng Cáo: Đội ngũ chuyên gia Google Ads của chúng tôi sẽ tạo thử nghiệm phân tách, quản lý, đề xuất điều chỉnh thông số trên từng chiến dịch,nhằm tối đa hóa phạm vi tiếp cận,từ khoá, top,…từ đối tượng mục tiêu của doanh nghiệp.",
+                    "- Báo Cáo Hiệu Suất Định Kỳ Minh Bạch, Chính Xác về tổng quan chiến dịch, tỷ lệ nhấp, ROI chiến dịch và báo cáo định kỳ theo yêu cầu. Số liệu report được trích xuất trực tiếp từ Trình Quản Lý Quảng Cáo Google Ads."
+                ]
+            },
+            {
+                "label": "5. Ngân sách tối thiểu cho 1 dự án chạy Quảng cáo Google Ads tại CAK SOLUTION là bao nhiêu?",
+                "children": [
+                    "Tùy trường hợp, tuy nhiên thường chúng tôi sẽ nhận hợp đồng quảng cáo ngân sách tối thiểu là 3.000.000 đ. Đây là điều kiện cần để chúng tôi thực hiện những kỹ thuật tối ưu nhằm đảm bảo được hiệu quả quảng cáo."
+                ]
+            },
+            {
+                "label": "6. Tiêu chuẩn chất lượng dịch vụ chạy Quảng cáo Google của chúng tôi là gì?",
+                "children": [
+                    "#1. Chuyên viên hỗ trợ tận tâm 24/7, phản hồi qua Zalo/Hotline ở mọi thời điểm giúp đáp ứng mọi thay đổi quảng cáo, báo cáo cho khách hàng.",
+                    "#2. Đảm bảo tiến độ dự án chạy theo đúng theo lộ trình, kế hoạch triển khai đã lập ra bởi đội ngũ chuyên gia Google của chúng tôi.",
+                    "#3. Liên tục đưa ra những phương án tối ưu dựa vào báo cáo thực tế từ quý khách hàng như thực hiện bổ sung từ khóa phụ, chặn phủ định, chặn click ảo,…",
+                    "#4. Đảm bảo chất lượng dự án và kết quả đạt được thực tế sẽ cao hơn bảng kết quả đã dự kiến nhằm giúp tối ưu chi phí và tăng thêm nhiều chuyển đổi khách hàng.",
+                    "#5. Tùy mục tiêu và giai đoạn phát triển của từng doanh nghiệp, chúng tôi sẽ có những bộ chỉ số để đánh giá hiệu quả của quảng cáo Google khác nhau.",
+                    "Thông thường sẽ có 2 mục tiêu quan trọng: Xây dựng nhận biết thương hiệu và thu hút khách hàng tiềm năng vào website. (nhằm mua hàng/ đăng ký tư vấn/ gọi điện…). Vì thế để đánh giá hiệu quả quảng cáo trên Google sẽ dựa trên 2 tiêu chí: Lượng truy cập và Tỷ lệ chuyển đổi. Chuyển đổi là hành vi tạo ra giá trị của khách hàng, có thể ví dụ như: nhấp chuột bao nhiêu lần, ở trên trang bao nhiêu lâu, có click vào các mục khác trên web không, click vào livechat, điền form, gọi hotline, v.v. Tỷ lệ chuyển đổi là tỉ lệ hành động tạo giá trị/ số lượt click vào quảng cáo. Tỷ lệ này sẽ khác với từng ngành, từng công ty, từng sản phẩm, từng trang đích.","#6. Với phương châm “HÀI LÒNG hoặc HOÀN TIỀN” nên từ ngày chạy quảng cáo thứ 15, nếu quý khách không hài lòng với dịch vụ quảng cáo (không có khách gọi, không hiệu quả như mong muốn,…) chúng tôi cam kết sẽ hoàn tiền ngay theo đúng quy định."
+                ]
+            },
+            {
+                "label": "7. Công ty có Cam kết Doanh số bán hàng không?",
+                "children": [
+                    "Quảng cáo Google chỉ đóng vai trò giúp đưa sản phẩm/ dịch vụ tiếp cận đúng nhóm khách hàng mục tiêu, nếu khách hàng có nhu cầu họ sẽ tương tác nhắn tin hoặc gọi điện cho bạn.Việc bán hàng còn phụ thuộc vào chất lượng sản phẩm/ dịch vụ bạn như thế nào, sự khác biệt của bạn so với đối thủ và cách bạn tư vấn bán hàng ra sao, chế độ hậu mãi như thế nào,…Đó là lý do tất cả các loại hình quảng cáo không thể cam kết doanh số… chúng tôi chỉ cam kết về các tiêu chí chất lượng dịch vụ quảng cáo, và kết quả từ quảng cáo mang lại cho doanh nghiệp của bạn."
+                ] 
+            },
+            {
+                "label": "8. Nên tự chạy hay thuê chúng tôi chạy Quảng cáo Google Ads?",
+                "children": [
+                    "Website chuẩn Marketing là website hỗ trợ tốt cho việc triển khai các chiến dịch marketing, dễ dàng tích hợp các công cụ hỗ trợ, theo dõi…"
+                ] 
+            },
+            {
+                "label": "9. Website chuẩn SEO là gì?",
+                "children": [
+                    "Với kinh nghiệm quản lý ngân sách hàng tỷ đồng trong rất nhiều các chiến dịch quảng cáo trên Google, am hiểu về thuật toán, chính sách của Google, chúng tôi biết cách xác định và đưa ra các điều chỉnh, tối ưu quảng cáo sao cho phù hợp theo các giai đoạn để quảng cáo chạy đạt được hiệu suất cao nhất.Nếu bạn tự chạy quảng cáo, bạn sẽ MẤT rất nhiều thời gian và tiền bạc để có đủ kỹ năng, kinh nghiệm cần thiết để tự chạy."
+                ]
+            }
+        ]
+    }
+}

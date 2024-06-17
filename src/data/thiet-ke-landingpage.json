@@ -1,0 +1,426 @@
+{
+	"banner": {
+		"title": "THIẾT KẾ LANDING PAGE",
+		"content": "Thu khách hàng tiềm năng vào Landing Page, tối ưu chuyển đổi quảng cáo hơn, tiết kiệm nhân viên tư vấn chốt đơn. Dịch vụ thiết kế Landing Page đẹp + Cho mọi lĩnh vực!",
+		"child": [
+			{
+				"title": "SIÊU GIẢM GIÁ",
+				"content": [
+					"Gói BASIC chỉ còn 2,4 Triệu (Giá cũ 3,9 Triệu)",
+					"Gói PRO chỉ còn 4,9 Triệu (Giá cũ 6,8 Triệu)"
+				]
+			},
+			{
+				"title": "MIẾN PHÍ",
+				"content": [
+					"Banner và logo cơ bản", "Hỗ trợ hoàn thiện nội dung"
+				]
+			},
+			{
+				"title": "Tặng",
+				"content": [
+					"Tiên miền .com | .net", "Hosting SSD từ 1GB"
+				]
+			}
+		]
+	},
+
+	"section1": {
+		"title": "LUÔN ƯU TIÊN TĂNG LƯỢT “CHUYỂN ĐỔI”",
+		"des": "Bạn có biết một Landing Page tốt có thể giúp bạn tiết kiệm 50-60% chi phí quảng cáo?",
+		"content": [
+			"Thiết kế theo YÊU CẦU chỉ từ 1 – 3 ngày làm việc",
+			"Thiết kế & lập trình dựa trên nghiên cứu người dùng, doanh nghiệp và ngành kinh doanh",
+			"Tối ưu nội dung chuẩn theo phương pháp AIDA",
+			"Áp dụng nhiều kỹ thuật tăng chuyển đổi như: Facebook comment, Mua hàng ảo, Đồng hồ đếm ngược…",
+			"Hỗ trợ vận hành theo yêu cầu và bảo hành trọn đời"
+		]
+	},
+
+	"section2": {
+		"title": "LUÔN ƯU TIÊN TĂNG LƯỢT “CHUYỂN ĐỔI”",
+		"content": "Trong các chiến dịch quảng cáo trực tuyến, Landing Page là một trang web đơn có nội dung tập trung nhằm dẫn dắt và thuyết phục người đọc thực hiện một mục tiêu chuyển đổi cụ thể.",
+		"child": [
+			{
+				"title": "Chuẩn UX/UI",
+				"content": "Tối ưu hóa trải nghiệm người dùng và giao diện người dùng",
+				"image": "https://cdn-icons-png.flaticon.com/128/1541/1541399.png"
+			},
+			{
+				"title": "Chuẩn Sales",
+				"content": "Tối ưu bán hàng theo lĩnh vực và dịch vụ/ sản phẩm của bạn",
+				"image": "https://cdn-icons-png.flaticon.com/128/9422/9422835.png"
+			},
+			{
+				"title": "Chuẩn Marketing",
+				"content": "Chuyển đổi cao khi triển khai các hoạt động Marketing",
+				"image": "https://cdn-icons-png.flaticon.com/128/11078/11078771.png"
+			},
+			{
+				"title": "Chuẩn SEO",
+				"content": "Đáp ứng các tiêu chí làm SEO, web dễ lên top Google",
+				"image": "https://cdn-icons-png.flaticon.com/128/2977/2977735.png"
+			}
+		]
+	},
+
+	"section4": {
+		"title": "SẢN PHẨM CỦA BẠN CÓ PHÙ HỢP LÀM LANDING PAGE",
+		"content": "Landing Page và website tồn tại song song và hỗ trợ cho nhau.Hãy xác định mục đích sử dụng để đạt hiểu quả cao nhất cho các chiến dịch marketing quảng cáo của bạn.",
+		"child": [
+			{
+				"title": "Landing Page phù hợp sản phẩm nào?",
+				"content": "Landing Page sử dụng hiệu quả nhất với các ngành nghề dịch vụ (đào tạo, spa làm đẹp, bất động sản, du lịch, tài chính, sự kiện…)hoặc một sản phẩm cụ thể (đồ chơi, phụ kiện, mỹ phẩm, đồ dùng gia đình, thể thao…).",
+				"image": "https://cdn-icons-png.flaticon.com/128/1062/1062311.png"
+			},
+			{
+				"title": "Website phù hợp sản phẩm nào?",
+				"content": " Với mô hình kinh doanh nhiều dòng sản phẩm sẽ phù hợp hơn khi có Website để kinh doanh trực tuyến,nhưng có thể kết hợp sử dụng Landing Page cho các chiến dịch marketing quảng cáo riêng cho từng mẫu.",
+				"image": "https://cdn-icons-png.flaticon.com/128/5574/5574945.png"
+			}
+		]
+	},
+
+	"section3": {
+		"title": "BẢNG GIÁ THIẾT KẾ WEBSITE THEO MẪU",
+		"content": "GIÁ và CHẤT LƯỢNG website tốt nhất thị trường !",
+		"child": [
+			{
+				"valueTrigger": "account",
+				"title": "BẢNG GIÁ DỊCH VỤ",
+				"color": "#00d084",
+				"children": [
+					{
+						"title": "STARTUP",
+						"price": "≥ 1.400.000 ₫",
+						"times": "/tháng",
+						"color": "#ff832b",
+						"content": [
+							"2.600.000 ₫",
+							"1.400.000 ₫",
+							"Phù hợp với các cá nhân, cửa hàng giới thiệu dịch vụ, sản phẩm cơ bản",
+							"Giao diện chọn theo mẫu có sẵn",
+							"Thời gian bàn giao 3 – 5 ngày",
+							"Tặng tên miền .com | .net trị giá 350.000đ",
+							"Tặng Hosting SSD 600MB trị giá 600.000đ",
+							"Miễn phí bảo mật website SSL",
+							"Tặng 1 banner cho Landing Page",
+							"Hỗ trợ cập nhập nội dung website và nhập liệu 5 đơn vị sản phẩm/ bài viết",
+							"Tính năng website cơ bản",
+							"Code chuẩn SEO, giao diện Responsive tương thích trên nhiều trình duyệt, thiết bị",
+							"Đầy đủ các công cụ hỗ trợ marketing, tối ưu cho Q.Cáo",
+							"Bàn giao tài khoản quản trị và tài liệu hướng dẫn sử dụng Landing Page",
+							"BBảo hành và hỗ trợ kỹ thuật trong suốt thời gian sử dụng",
+							"Phí gia hạn tính từ năm 2: 950.000 đ/ năm"
+						],
+						"gift": {
+							"content": [
+								"Giảm giá 20% khi đăng ký các gói dịch vụ chăm sóc Website/Fanpage",
+								"Tư vấn giải pháp Marketing cho Landing Page"
+							]
+						}
+					},
+					{
+						"title": "BUSINESS",
+						"price": "≥ 2.500.000 ₫",
+						"times": "/tháng",
+						"color": "#ff832b",
+						"content": [
+							"4.900.000 ₫",
+							"2.500.000 ₫",
+							"Phù hợp với các công ty, cá nhân, cửa hàng giới thiệu dịch vụ, sản phẩm theo kịch bản",
+							"Giao diện theo mẫu có sẵn hoặc thiết kế theo mẫu khách hàng chọn",
+							"Thiết kế layout Landing Page theo yêu cầu, chỉnh sửa tối đa 05 lần",
+							"Thời gian bàn giao 5 – 10 ngày",
+							"Tặng tên miền .com | .net trị giá 350.000đ",
+							"Tặng Hosting SSD 1,5GB trị giá 1.500.000đ",
+							"Miễn phí bảo mật website SSL",
+							"Tặng 1 banner và logo cho Landing Page",
+							"Hỗ trợ hoàn thiện nội dung",
+							"Tính năng Landing Page theo yêu cầu",
+							"Tối ưu tốc độ, giao diện Responsive tương thích trên nhiều trình duyệt, thiết bị",
+							"Đầy đủ các công cụ hỗ trợ marketing, tối ưu cho Q.Cáo",
+							"Bàn giao code, tài khoản quản trị và tài liệu hướng dẫn sử dụng website",
+							"Bảo hành và hỗ trợ kỹ thuật trong suốt thời gian sử dụng website",
+							"Phí gia hạn tính từ năm 2: 1.150.000 đ/ năm"
+						],
+						"gift": {
+							"content": [
+								"Giảm giá 20% khi đăng ký các gói dịch vụ chăm sóc Website/Fanpage",
+								"Giảm 20% phí dịch vụ chạy Quảng cáo Google Ads",
+								"Tư vấn giải pháp Marketing cho Landing Page"
+							]
+						}
+					},
+					{
+						"title": "GROWTH",
+						"price": "≥ 7.000.000 ₫",
+						"times": "/tháng",
+						"color": "#ff832b",
+						"content": [
+							"Phù hợp với đại đa số các công ty, cá nhân, cửa hàng đề cao sự khác biệt, độc quyền",
+							"Giao diện tuỳ chọn hoặc thiết kế riêng theo yêu cầu",
+							"Thời gian bàn giao 10 – 20 ngày",
+							"Thiết kế layout Landing Page theo yêu cầu, chỉnh sửa đến khi hài lòng",
+							"Tặng tên miền .com | .net trị giá 350.000đ",
+							"Tặng Hosting SSD 1200MB trị giá 1.200.000đ",
+							"Miễn phí bảo mật website SSL",
+							"Tặng bộ banner, hình ảnh chuẩn theo bộ nhận diện thương hiệu cho Laning Page",
+							"Hỗ trợ hoàn thiện nội dung",
+							"Tính năng Landing Page theo yêu cầu",
+							"Tối ưu tốc độ, giao diện Responsive tương thích trên nhiều trình duyệt, thiết bị",
+							"Tích hợp countdown thúc giục chuyển đổi, gallery, pop-up Tích hợp comment seeding",
+							"Tạo hiệu ứng đẹp mắt theo kịch bản cho trang",
+							"Đầy đủ các công cụ hỗ trợ marketing",
+							"Bàn giao code, tài khoản quản trị và tài liệu hướng dẫn sử dụng Landing Page",
+							"Bảo hành và hỗ trợ kỹ thuật trong suốt thời gian sử dụng",
+							"Phí gia hạn tính từ năm 2: 1.550.000 đ/ năm"
+						],
+						"gift": {
+							"content": [
+								"Giảm giá 20% khi đăng ký các gói dịch vụ chăm sóc Website/Fanpage",
+								"Giảm 20% phí dịch vụ chạy Quảng cáo Google Ads",
+								"Tư vấn giải pháp Marketing cho Landing Page"
+							]
+						}
+					}
+				]
+				
+			}
+		],
+		"contact": {
+			"title": "Để có báo giá chính xác và tốt nhất khách hàng vui lòng liên hệ:",
+			"content": [
+			{
+				"text": "Hotline : 02998888683 !",
+				"className": "text-white bg-red"
+			},
+			{
+				"text": "Tổng đài miễn phí : 02998888683",
+				"className": "text-white bg-heading"
+			}
+			]
+		}
+	},
+
+	"section10": {
+		"title": "CÁC MẪU GIAO DIỆN MỚI NHẤT",
+		"content": "CAK Solution đã lọc chọn và đúc kết hàng trăm giao diện mẫu cho bạn lựa chọn!"
+	},
+
+	"section5": {
+		"title": "QUY TRÌNH THIẾT KẾ LANDING PAGE",
+		"content": "Tại CAK Solution, chúng tôi áp dụng quy trình chặt chẽ để đảm bảo mang lại thành công cho dự án thiết kế landing page!",
+		"child": [
+			{
+				"title": "TIẾP NHẬN & NGHIÊN CỨU",
+				"content": ["CAK Solution tiếp nhận các yêu cầu cần thiết kế landing page.Tiến hành nghiên cứu sản phẩm, thương hiệu, insight khách hàng, đối thủ và mục tiêu của doanh nghiệp."]
+			},
+			{
+				"title": "ĐỀ XUẤT GIẢI PHÁP",
+				"content": ["Dựa trên bản nghiên cứu, CAK Solution đề xuất giải pháp thiết kế landing page cụ thể: Bố cục nội dung, tính năng hoặc lựa chọn giao diện phù hợp với mục tiêu dự án."]
+			},
+			{
+				"title": "BÁO GIÁ & KÝ HỢP ĐỒNG",
+				"content": [
+					"CAK Solution báo giá tốt nhất theo yêu cầu thiết kế landing page đã thống nhất và tư vấn kỹ càng về dịch vụ. Tiến hành ký kết hợp đồng và chuyển khoản tạm ứng, bắt đầu triển khai theo kế hoạch."
+				]
+			},
+			{
+				"title": "THIẾT KẾ GIAO DIỆN UX/UI",
+				"content": [
+					"Phối hợp với doanh nghiệp để thiết kế giao diện Landing Page, bao gồm: Wireframes, Prototype và các module cần thiết (bao gồm cả giao diện Mobile)…."
+				]
+			},
+			{
+				"title": "LẬP TRÌNH WEBSITE",
+				"content": [
+					"Tiến hành lập trình Frontend & Backend theo bản phân tích thiết kế. (Tạo hệ thống riêng hoặc kết nối với trang web đã có.)"
+				]
+			},
+			{
+				"title": "KIỂM THỬ & SỬA LỖI",
+				"content": [
+					"Kiểm tra tất cả các lỗi về Giao Diện (UI/UX), Lỗi Code Giao Diện, Lỗi Code Tính Năng & Các luồng hoạt động.",
+					"Sửa lại các lỗi trên, đặc biệt là việc tương tác cho người sử dụng để mang lại hiệu quả kinh doanh và hài lòng về trải nghiệm tốt nhất cho khách hàng của bạn."
+				]
+			},
+			{
+				"title": "BÀN GIAO & HƯỚNG DẪN",
+				"content": [
+					"Kiểm tra lỗi lần cuối và bàn giao Sources cho khách hàng. Hỗ trợ cài đặt cho landing page hoạt động và hướng dẫn sử dụng quản trị. Và hỗ trợ hoàn thiện nhập liệu các nội dung chính cho landing page."
+				]
+			},
+			{
+				"title": "ĐỒNG HÀNH & PHÁT TRIỂN",
+				"content": [
+					"Duy trì, bảo hành, hỗ trợ vận hành landing page hoạt động ổn định. Phát triển tính năng mới đáp ứng nhu cầu mở rộng theo các giai đoạn yêu cầu từ khách hàng. Tư vấn các chiến lược phát triển và quảng cáo."
+				]
+			}
+		]
+	},
+
+	"section6": {
+		"title": "9 LÝ DO NÊN CHỌN THIẾT KẾ WEB THEO MẪU TẠI CAK Solution",
+		"content": "Chúng tôi vẫn liên tục hoàn thiện dịch vụ và nỗ lực hơn nữa để giúp cho nhiều đối tác và khách hàng phát triển bền vững !!!",
+		"child": [
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/12.png",
+				"title": "Chuyên viên tư vấn tận tâm, nắm vững các nhu cầu của khách hàng."
+			},
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/16.png",
+				"title": "Kho giao diện có sẵn độc đáo, chuẩn Marketing đầy đủ mọi ngành nghề"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/8.png",
+				"title": "Công nghệ mới nhất, hệ thống hoạt động ổn định, bảo mật cao"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/CRM%20(5).png",
+				"title": "Quy trình tiếp nhận và triển khai dự án chuyên nghiệp hàng đầu"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/15.png",
+				"title": "Kết nối chặt chẽ, tương tác và phản hồi liên tục trong dự án"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/1.png",
+				"title": "Đội ngũ có kinh nghiệm thực thi nhiều dự án đa dạng lĩnh vực khác nhau"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//gangthep.vn/2024/032024/13/CRM%20(1).png",
+				"title": "Trách nhiệm với sản phẩm, mang lại nhiều giá trị cho khách hàng"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//gangthep.vn/2024/032024/13/19.png",
+				"title": "Hỗ trợ vận hành và bảo trì đảm bảo website hoạt động trơn tru, không lỗi"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/14.png",
+				"title": "Hỗ trợ đào tạo, hướng dẫn sử dụng website miễn phí"
+			}
+		]
+	},
+
+	"section7": {
+		"title": "THÀNH TỰU MÀ CAK SOLUTION ĐẠT ĐƯỢC",
+		"child": [
+			{
+				"title": 568,
+				"content": "Dự án đã triển khai"
+			},
+			{
+				"title": 500,
+				"content": "Khách hàng tiêu biểu"
+			},
+			{
+				"title": 7,
+				"content": "Năm kinh nghiệm"
+			},
+			{
+				"title": 30,
+				"content": "Đội ngũ nhân sự"
+			}
+		],
+		"content": "Các khách hàng tiêu biểu đã và đang hợp tác cùng CAK Solution"
+	},
+
+	"section8": {
+		"title": "CÁC CÂU HỎI THƯỜNG GẶP",
+		"child": [
+			{
+				"label": "1. Landing Page là gì?",
+				"children": [
+					"Landing Page là một trang đích độc lập, thiết kế riêng cho các chiến dịch quảng cáo. Khác với các trang web bình thường, Landing Page hướng đến một mục tiêu duy nhất là kêu gọi hành động của khách hàng, người đọc, có thể bằng nhiều hình thức như gửi liên hệ, đăng ký, gọi điện, hoặc mua hàng trực tiếp,…Khách hàng tiếp cận với Landing Page bằng nhiều hình thức: Email, quảng cáo từ Google, Cốc cốc, Bing, YouTube, Facebook, Instagram, Tiktok, từ các tờ báo điện tử hoặc từ giới thiệu của các trang web khác, các banner,…Landing Page là lựa chọn tốt nhất để tăng tỷ lệ chuyển đổi của các chiến dịch tiếp thị, quảng cáo và giảm chi phí để có được một khách hàng tiềm năng hoặc ra đơn hàng."
+				]
+			},
+			{
+				"label": "2. 7 lý do bạn cần Landing Page?",
+				"children": [
+					"- Bạn cần tăng tỉ lệ chuyển đổi",
+					"- Bạn cần tối đa trải nghiệm mua hàng",
+					"- Bạn cần hiệu quả Marketing nhanh chóng",
+					"- Bạn cần tiết kiệm chi phí xây dựng & vận hành",
+					"- Bạn cần tập trung nguồn lưu lượng truy cập",
+					"- Bạn cần giới thiệu sản phẩm, sự kiện mới",
+					"- Bạn cần thu thập thông tin khách hàng"
+				]
+			},
+			{
+				"label": "3. Phí gia hạn Landing Page hàng năm là gì?",
+				"children": [
+					"Thực ra phí gia hạn hàng năm không phải là khoản phí mà khách hàng trả cho chúng tôi để duy trì. Mà đây là khoản phí trả cho nhà cung cấp hosting và tên miền nhằm duy trì trạng thái hoạt động liên tục landing page."
+				]
+			},
+			{
+				"label": "4. Landing Page hoạt động như thế nào?",
+				"children": [
+					"Các kênh quảng cáo (Facebook Ads, Google Ads, Zalo Ads…) sẽ điều hướng người dùng vào trang Landing page. Tại đây người dùng tìm thấy thông tin mình cần và sự tin tưởng. Người dùng sẽ để lại thông tin của mình (họ tên, sđt, mail, nhu cầu ….), hoặc trực tiếp gọi điện hay mua hàng trên Landing Page."
+				]
+			},
+			{
+				"label": "5. Landing Page chuẩn UX là gì?",
+				"children": [
+					"Landing Page chuẩn UX là Landing Page được xây dựng, thiết kế nhằm xây dựng trải nghiệm tốt cho người dùng mục tiêu.",
+					"Sử dụng quy trình thiết kế landing page tiêu chuẩn để tạo ra giải pháp:",
+					"1. Thấu hiểu",
+					"2. Nghiên cứu",
+					"3. Xây dựng luồng người dùng",
+					"4. Kiến trúc thông tin",
+					"5. Thiết kế Wireframes Prototype và Mockups",
+					"6. Kiểm tra"
+				]
+			},
+			{
+				"label": "6. Landing Page chuẩn UI là gì?",
+				"children": [
+					"Landing Page chuẩn UI là Landing Page được thiết kế đảm bảo gây ấn tượng với người dùng mục tiêu, độc đáo và đảm bảo tính nhận diện.",
+					"Các thành phần UI (nhìn thấy) được tính toán kỹ lưỡng để mang lại thiết kế tổng thể bền vững, đáp ứng mục tiêu phát triển dài hạn."
+				]
+			},
+			{
+				"label": "8. Landing Page chuẩn Sales là gì?",
+				"children": [
+					"Landing Page chuẩn Sales là Landing Page được thiết kế hỗ trợ bán hàng, dẫn dắt khách hàng thúc đẩy chuyển đổi (mua hàng, đăng ký …) hiệu quả ngay trên trang."
+				]
+			},
+			{
+				"label": "9. Landing Page chuẩn Marketing là gì?",
+				"children": [
+					"Landing Page chuẩn Marketing là Landing Page hỗ trợ tốt cho việc triển khai các chiến dịch marketing, dễ dàng tích hợp các công cụ hỗ trợ, theo dõi…"
+				]
+			},
+			{
+				"label": "10. Landing Page chuẩn SEO là gì?",
+				"children": [
+					"Landing Page chuẩn SEO là Landing Page được thiết kế nhằm hỗ trợ việc thu thập dữ liệu dễ dàng, đáp ứng các hoạt động tối ưu hóa, thúc đẩy thứ hạng trên công cụ tìm kiếm."
+				]
+			},
+			{
+				"label": "10. Landing Page chuẩn SEO là gì?",
+				"children": [
+					"Landing Page chuẩn SEO là Landing Page được thiết kế nhằm hỗ trợ việc thu thập dữ liệu dễ dàng, đáp ứng các hoạt động tối ưu hóa, thúc đẩy thứ hạng trên công cụ tìm kiếm."
+				]
+			},
+			{
+				"label": "11. Điểm khác biệt của CAK Solution là gì?",
+				"children": [
+					"CAK Solution không chỉ tạo ra thiết kế Landing Page, chúng tôi tạo ra giải pháp đáp ứng mục tiêu doanh nghiệp:",
+					"Nhận diện thương hiệu: Thiết kế tinh tế, lồng ghép nhận diện thương hiệu.",
+					"Trải nghiệm người dùng (UX): Thiết kế để tối ưu hóa trải nghiệm người dùng trong mọi tình huống và trên mọi thiết bị.",
+					"Giao diện (UI) đẹp, ấn tượng: Thiết kế dựa trên chân dung khách hàng với sự phối hợp của các nhà thiết kế nhiều kinh nghiệm.",
+					"Đáp ứng nhu cầu Marketing: Tối ưu hóa cho việc triển khai các chiến dịch marketing, đo lường hiệu quả, chi tiết.",
+					"Hỗ trợ SEO hiệu quả: Thiết kế đáp ứng kỹ thuật SEO mới nhất. Đáp ứng các tiêu chuẩn của Google về tốc độ, tích tương thích.",
+					"Thúc đẩy bán hàng hiệu quả: CAK Solution coi đây là mục tiêu tối thượng khi thiết kế website do đó các chi tiết thiết kế,  lập trình đều dựa trên bản phân tích khoa học, đây cũng chính là lý do các doanh nghiệp lớn nhỏ lựa chọn CAK Solution cho dự án thiết kế landing page."
+				]
+			},
+			{
+				"label": "12. Tôi muốn triển khai thiết kế Landing Page thì cần bắt đầu như thế nào?",
+				"children": [
+					"Hãy liên hệ ngay với CAK Solution theo số Tổng đài tư vấn miễn phí: 02998888683 hoặc điền vào đơn đăng ký tư vấn. Đội ngũ của CAK Solution sẽ liên lạc với bạn trong thời gian sớm nhất và mang lại những giải pháp phù hợp nhất cho bạn."
+				]
+			}
+		]
+	}
+}

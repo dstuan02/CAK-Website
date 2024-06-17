@@ -1,0 +1,483 @@
+{
+	"banner": {
+		"title": "THIẾT KẾ WEBSITE TRỌN GÓI GIÁ RẺ",
+		"content": "ƯU ĐÃI GIẢM GIÁ tối đa lên đến 50% (Chương trình hỗ trợ trong giai đoạn nền kinh tế đang chịu ảnh hưởng nặng nề từ dịch bệnh, suy thoái toàn cầu)",
+		"child": [
+			{
+				"title": "SIÊU GIẢM GIÁ",
+				"content": [
+					"Gói BASIC chỉ còn 2,4 Triệu (Giá cũ 3,9 Triệu)",
+					"Gói PRO chỉ còn 4,9 Triệu (Giá cũ 6,8 Triệu)"
+				]
+			},
+			{
+				"title": "MIẾN PHÍ",
+				"content": [
+					"Tiên miền .com | .net",
+					"Hosting SSD từ 1GB",
+					"Thiết kế banner và logo cho website",
+					"Hỗ trợ hoàn thiện nội dung"
+				]
+			},
+			{
+				"title": "GIẢM GIÁ",
+				"content": [
+					"Giảm 10 - 20% khi sử dụng thêm các dịch vụ website liên quan",
+					"Giảm 20% Phí dịch vụ khi chạy Quảng cáo google Ads"
+				]
+			}
+		],
+		"bannerImage": ""
+	},
+
+	"section1": {
+		"title": "BẠN LO LẮNG VÌ CHỌN THIẾT KẾ WEBSITE GIÁ RẺ. NHƯNG LIỆU CHẤT LƯỢNG CÓ ĐẢM BẢO HAY KHÔNG?",
+		"content": [
+			"Với kinh nghiệm làm Digital Marketing cho nhiều doanh nghiệp, nhà kinh doanh. CAK Solution đã đúc kết, dựng sẵn hằng trăm mẫu giao diện website ở nhiều lĩnh vực khác nhau và chúng tôi tự tin giúp bạn xây dựng một website nhanh, chuẩn các tiêu chí tối ưu đáp ứng cho marketing!"
+		],
+		"child": [
+			{
+				"title": "Chuẩn UX/UI",
+				"content": "Tối ưu hóa trải nghiệm người dùng và giao diện người dùng",
+				"image": "https://cdn-icons-png.flaticon.com/128/1541/1541399.png"
+			},
+			{
+				"title": "Chuẩn Sales",
+				"content": "Tối ưu bán hàng theo lĩnh vực và dịch vụ/ sản phẩm của bạn",
+				"image": "https://cdn-icons-png.flaticon.com/128/9422/9422835.png"
+			},
+			{
+				"title": "Chuẩn Marketing",
+				"content": "Chuyển đổi cao khi triển khai các hoạt động Marketing",
+				"image": "https://cdn-icons-png.flaticon.com/128/11078/11078771.png"
+			},
+			{
+				"title": "Chuẩn SEO",
+				"content": "Đáp ứng các tiêu chí làm SEO, web dễ lên top Google",
+				"image": "https://cdn-icons-png.flaticon.com/128/2977/2977735.png"
+			}
+		],
+		"AdsImage": ""
+	},
+
+	"section2": {
+		"title": "ƯU ĐIỂM NỔI BẬT KHI CHỌN THIẾT KẾ WEBSITE THEO MẪU TRỌN GÓI TẠI CAK SOLUTION",
+		"child": [
+			{
+				"title": "Giao diện đẹp, hiện đại với hơn 300 mẫu có sẵn",
+				"content": [
+					"Cập nhật dựa theo xu hướng thiết kế mới mang bản sắc riêng của doanh nghiệp",
+					"Hơn 300 mẫu website đã tối ưu chuẩn Marketing với đầy đủ mọi ngành nghề cho bạn lựa chọn"
+				],
+				"image": "https://cdn-icons-png.flaticon.com/128/6911/6911848.png"
+			},
+			{
+				"title": "Dễ dàng tuỳ biến hay nâng cấp theo nhu cầu",
+				"content": [
+					" Dễ dàng tuỳ biến lại giao diện theo sản phẩm/ dịch vụ hay đặc phù mô hình kinh doanh của bạn",
+					" Mọi yêu cầu nâng cấp đều được đánh giá và xây dựng phù hợp với mục tiêu của doanh nghiệp"
+				],
+				"image": "https://mediaimages.vps.vn/cak-solution.com/2024/032024/07/seo.png"
+			},
+			{
+				"title": "Chuẩn SEO, tải nhanh, dễ lên Top Google",
+				"content": [
+					"Thiết kế chuẩn UX/UI chuẩn SEO, chuẩn Marketing và chuẩn Sales",
+					"Tốc độ tải trang cực nhanh dưới 2s"
+				],
+				"image": "https://cdn-icons-png.flaticon.com/128/2977/2977735.png"
+			},
+			{
+				"title": "Quản trị website trực quan, dễ sử dụng",
+				"content": [
+					"Trang quản trị dễ sử dụng, tùy biến linh hoạt cho phép khách hàng quản lý mọi thứ trên admin.",
+					"Không cần biết code hay hiểu về lập trình"
+				],
+				"image": "https://cdn-icons-png.flaticon.com/128/247/247654.png"
+			},
+			{
+				"title": "Chi phí website trọn gói, không phát sinh",
+				"content": [
+					"Chi phí trọn gói hoặc giá linh hoạt tuỳ vào nhu cầu quý khách yêu cầu thêm",
+					"Không phát sinh thêm chi phí đối với các yêu cầu thêm nhỏ, đơn giản"
+				],
+				"image": "https://cdn-icons-png.flaticon.com/128/562/562501.png"
+			},
+			{
+				"title": "Công nghệ mới với độ ổn định và bảo mật cao",
+				"content": [
+					"Áp dụng công nghệ website mới nhất được chạy nền tảng hệ thống, server chất lượng cao",
+					"Dữ liệu website backup liên tục hằng ngày, thông báo tự động khi xảy ra lổ hỏng bảo mật hay website không hoạt động"
+				],
+				"image": "https://cdn-icons-png.flaticon.com/128/1087/1087815.png"
+			}
+		]
+	},
+
+	"section3": {
+		"title": "BẢNG GIÁ THIẾT KẾ WEBSITE THEO MẪU",
+		"content": " website tốt nhất thị trường !",
+		"child": [
+			{
+				"valueTrigger": "account",
+				"title": "GIÁ WEBSITE THEO MẪU",
+				"children": [
+					{
+						"title": "BASIC",
+						"price": "≥ 2.600.000 ₫",
+                        "times": "/tháng",
+						"color": "#ff832b",
+						"content": [
+							"3.900.000 ₫",
+							"2.600.000 ₫",
+							"Phù hợp với các cá nhân, cửa hàng giới thiệu dịch vụ, sản phẩm cơ bản",
+							"Giao diện chọn theo kho mẫu có sẵn",
+							"Thời gian bàn giao 3 – 5 ngày",
+							"Tặng tên miền .com | .net trị giá 350.000đ",
+							"Tặng Hosting SSD 1GB trị giá 1.000.000đ",
+							"Miễn phí bảo mật website SSL",
+							"Tặng 1 banner và logo cho website",
+							"Hỗ trợ cập nhập nội dung website và nhập liệu 5 đơn vị sản phẩm/ bài viết",
+							"Tính năng website cơ bản",
+							"Code chuẩn SEO, giao diện Responsive tương thích trên nhiều trình duyệt, thiết bị",
+							"Đầy đủ các công cụ hỗ trợ marketing, tối ưu cho Q.Cáo",
+							"Bàn giao tài khoản quản trị và tài liệu hướng dẫn sử dụng website",
+							"Bảo hành và hỗ trợ kỹ thuật trong suốt thời gian sử dụng website",
+							"Phí gia hạn tính từ năm 2: 1.350.000 đ/ năm"
+						]
+					},
+					{
+						"title": "PRO",
+						"price": "≥ 4.900.000 ₫",
+                        "times": "/tháng",
+						"color": "#00d084",
+						"content": [
+							"6.800.000 ₫",
+							"4.900.000 ₫",
+							"Phù hợp với các công ty, cá nhân, cửa hàng giới thiệu dịch vụ, sản phẩm và bán hàng chuyên nghiệp",
+							"Giao diện chọn theo kho mẫu có sẵn hoặc làm theo mẫu web khách hàng tự chọn",
+							"Chỉnh sửa giao diện tối đa 03 lần",
+							"Thời gian bàn giao 7 – 15 ngày",
+							"Tặng tên miền .com | .net trị giá 350.000đ",
+							"Tặng Hosting SSD 1,5GB trị giá 1.500.000đ",
+							"Miễn phí bảo mật website SSL",
+							"Tặng 2 banner và logo cho website",
+							"Hỗ trợ cập nhập nội dung website và nhập liệu 10 đơn vị sản phẩm/ bài viết",
+							"Tính năng website chuyên nghiệp",
+							"Code chuẩn SEO, giao diện Responsive tương thích trên nhiều trình duyệt, thiết bị",
+							"Đầy đủ các công cụ hỗ trợ marketing, tối ưu cho Q.Cáo",
+							"Bàn giao code, tài khoản quản trị và tài liệu hướng dẫn sử dụng website",
+							"Bảo hành và hỗ trợ kỹ thuật trong suốt thời gian sử dụng website",
+							"Phí gia hạn tính từ năm 2: 1.850.000 đ/ năm"
+						]
+					},
+					{
+						"title": "PLUS",
+						"price": "≥ 8.900.000 ₫",
+                        "times": "/tháng",
+						"color": "#25b1ca",
+						"content": [
+							"9.900.000 ₫",
+							"8.900.000 ₫",
+							"Phù hợp với đại đa số các công ty, cá nhân, cửa hàng đề cao sự khác biệt",
+							"Giao diện được tuỳ chọn hoặc thiết kế riêng dựa theo yêu cầu của quý khách hàng",
+							"Thiết kế 01 layout trang chủ, chỉnh sửa tối đa 05 lần",
+							"Thời gian bàn giao 15 – 25 ngày",
+							"Tặng tên miền .com | .net trị giá 350.000đ",
+							"Tặng Hosting SSD 2GB trị giá 2.000.000đ",
+							"Miễn phí bảo mật website SSL",
+							"Tặng 2 banner và logo cho website",
+							"Hỗ trợ cập nhập nội dung website và nhập liệu 15 đơn vị sản phẩm/ bài viết",
+							"Tính năng website theo yêu cầu",
+							"Code chuẩn SEO, giao diện Responsive tương thích trên nhiều trình duyệt, thiết bị",
+							"Đầy đủ các công cụ hỗ trợ marketing, tối ưu cho Q.Cáo",
+							"Hỗ trợ đào tạo sử dụng quản trị website miễn phí",
+							"Bàn giao code, tài khoản quản trị và tài liệu hướng dẫn sử dụng website",
+							"Bảo hành và hỗ trợ kỹ thuật trong suốt thời gian sử dụng website",
+							"Phí gia hạn tính từ năm 2: 2.350.000 đ/ năm"
+						]
+					}
+				]
+			},
+			{
+				"valueTrigger": "password",
+				"title": "GIÁ WEBSITE NẾU THEO YÊU CẦU",
+				"children": [
+					{
+						"title": "ENTERPRISE",
+						"price": "12.900.000 ₫",
+                        "times": "/tháng",
+						"color": "#ff832b",
+						"content": [
+							"Phù hợp với các website cho doanh nghiệp và shop kinh doanh bán hàng giới thiệu sản phẩm,dịch vụ chuyên nghiệp với đầy đủ các tính năng cần thiết ở một trang web cao cấp",
+							"Ngôn ngữ code WordPress",
+							"Giao diện website tuỳ chọn hoặc thiết kế theo yêu cầu bộ nhận diện thương hiệu khách hàng",
+							"Thiết kế 03 layout, chỉnh sửa tối đa 05 lần",
+							"Thời gian bàn giao 20 – 30 ngày",
+							"Tặng tên miền .com | .net trị giá 350.000đ",
+							"Tặng Hosting SSD 3 GB trị giá 3.000.000đ",
+							"Miễn phí bảo mật website SSL",
+							"Tặng 2 banner và logo cho website",
+							"Hỗ trợ cập nhập nội dung website và nhập liệu 20 đơn vị sản phẩm/ bài viết",
+							"Tính năng website theo yêu cầu",
+							"Thiết kế chuẩn UI/UX giao diện người dùng và trải nghiệm người dùng",
+							"Code chuẩn SEO, tối ưu tốc độ, giao diện Responsive tương thích trên nhiều trình duyệt, thiết bị",
+							"Hỗ trợ đào tạo sử dụng quản trị website miễn phí",
+							"Bàn giao code, tài khoản quản trị và tài liệu hướng dẫn sử dụng website",
+							"Bảo hành và hỗ trợ kỹ thuật trong suốt thời gian sử dụng website"
+						]
+					},
+					{
+						"title": "ECONOMY",
+						"price": "19.000.000 ₫",
+                        "times": "/tháng",
+						"color": "#00d084",
+						"content": [
+							"Phù hợp với các website doanh nghiệp, nhà bán hàng với sản phẩm cao cấp, website thương mại nhỏ, bất động sản đăng tin, rao vặt,…hoặc website đa dạng nhiều dịch vụ",
+							"Tuỳ chọn ngôn ngữ code WorPress hoặc PHP",
+							"Giao diện website thiết kế riêng theo yêu cầu",
+							"Thiết kế 05 layout và chỉnh sửa đến khi hài lòng",
+							"Thời gian bàn giao 30 – 45 ngày",
+							"Tặng tên miền .com | .net trị giá 350.000đ",
+							"Tặng Business Hosting SSD 5 GB trị giá 5.000.000đ",
+							"Miễn phí bảo mật website SSL",
+							"Tặng 3 banner và logo cho website",
+							"Hỗ trợ cập nhập nội dung website và nhập liệu 20 đơn vị sản phẩm/ bài viết",
+							"Tính năng website nâng cao theo yêu cầu",
+							"Tích hợp kết nối đa kênh bán hàng",
+							"Thiết kế chuẩn UI/UX giao diện người dùng và trải nghiệm người dùng",
+							"Code chuẩn SEO, giao diện Responsive tương thích trên nhiều trình duyệt, thiết bị",
+							"Hỗ trợ đào tạo sử dụng quản trị website miễn phí",
+							"Bàn giao code, tài khoản quản trị và tài liệu hướng dẫn sử dụng website",
+							"Bảo hành và hỗ trợ kỹ thuật trong suốt thời gian sử dụng website"
+						]
+					},
+					{
+						"title": "EXECUTIVE",
+						"price": "≥ 29.000.000 ₫",
+                        "times": "/tháng",
+						"color": "#25b1ca",
+						"content": [
+							"Phù hợp với các website thương mại diện tử vừa, website giải pháp quản lý đặc thù theo mô hình kinh doanh…website có thuật toán khó, traffic cao và tối ưu bảo mật",
+							"Tuỳ chọn ngôn ngữ code WorPress hoặc PHP",
+							"Giao diện website thiết kế độc quyền theo yêu cầu",
+							"Thiết kế số lượng các trang layout theo yêu cầu và chỉnh sửa giao diện đến khi hài lòng",
+							"Thời gian bàn giao 45 – 60 ngày",
+							"Tặng tên miền .com | .net trị giá 350.000đ",
+							"Tặng Business Hosting SSD 8 GB trị giá 8.000.000đ",
+							"Miễn phí bảo mật website SSL",
+							"Tặng bộ banner theo website",
+							"Hỗ trợ cập nhập nội dung website và nhập liệu 20 đơn vị sản phẩm/ bài viết",
+							"Tính năng website theo giải pháp, yêu cầu",
+							"Hiệu ứng website theo kịch bản",
+							"Tích hợp kết nối đa kênh với đối tác thứ ba",
+							"Thiết kế chuẩn UI/UX giao diện người dùng và trải nghiệm người dùng",
+							"Code chuẩn SEO, giao diện Responsive tương thích trên nhiều trình duyệt, thiết bị",
+							"Hỗ trợ đào tạo sử dụng quản trị website miễn phí",
+							"Bàn giao code, tài khoản quản trị và tài liệu hướng dẫn sử dụng website",
+							"Bảo hành và hỗ trợ kỹ thuật trong suốt thời gian sử dụng website"
+						]
+					}
+				],
+				"gift": {
+					"content": [
+						"Giảm giá 20% khi đăng ký các gói dịch vụ Chăm sóc Website/Fanpage",
+						"Giảm 20% phí dịch vụ chạy Quảng cáo Google Ads",
+						"Tư vấn giải pháp Marketing cho website"
+					]
+				},
+				"contact": {
+					"title": "Để có báo giá chính xác và tốt nhất khách hàng vui lòng liên hệ:",
+					"content": ["Hotline : 0765506825 !", "Tổng đài miễn phí : 088797887"]
+				}
+			}
+		]
+	},
+
+	"section4": {
+		"title": "CHỌN TEMPLATE WEBSITE THEO NGÀNH NGHỀ KINH DOANH",
+		"content": "CAK Solution đã lọc chọn đúc kết và dựng sẵn hàng trăm giao diện web mẫu cho bạn lựa chọn nhanh!"
+	},
+
+	"section5": {
+		"title": "QUY TRÌNH THIẾT KẾ WEBSITE THEO MẪU",
+		"content": "Quá trình hợp tác sẽ cần sự phối hợp giữa khách hàng và chúng tôi để cho ra sản phẩm chất lượng nhất!",
+		"child": [
+			{
+				"title": "TƯ VẤN & BÁO GIÁ",
+				"content": [
+					"Khách hàng liên hệ và đưa ra yêu cầu tư vấn gói dịch vụ thiết kế web trọn gói. Tư vấn viên chúng tôi sẽ dựa trên những thông tin này để tư vấn gói web phù hợp."
+				]
+			},
+
+			{
+				"title": "KÝ HỢP ĐỒNG & THANH TOÁN",
+				"content": [
+					"Với dịch vụ design website, chúng ta sẽ ký kết hợp đồng khi hợp tác nhằm đảm bảo quyền lợi cho cả hai. Hợp đồng sẽ gồm những điều khoản đã thống nhất."
+				]
+			},
+
+			{
+				"title": "THIẾT KẾ TRANG WEBSITE",
+				"content": [
+					"Đội ngũ thiết kế và lập trình viên chúng tôi sẽ bắt tay vào công tác thiết kế mẫu web với đây đủ chức năng cũng như giao diện theo yêu cầu khách hàng."
+				]
+			},
+
+			{
+				"title": "DEMO & CHỈNH SỬA",
+				"content": [
+					"Đội ngũ thiết kế và lập trình viên chúng tôi sẽ bắt tay vào công tác thiết kế mẫu web với đây đủ chức năng cũng như giao diện theo yêu cầu khách hàng."
+				]
+			},
+
+			{
+				"title": "NHẬP LIỆU & BÀN GIAO",
+				"content": [
+					"Hoàn thành giao đoạn thiết kế, chúng tôi gửi bản web demo để khách hàng duyệt qua. Khách hàng được quyền yêu cầu điều chỉnh trước khi bàn giao."
+				]
+			},
+
+			{
+				"title": "ĐỒNG HÀNH & PHÁT TRIỂN",
+				"content": [
+					"Sau khi nghiệm thu hoàn tất, chúng tôi sẽ chuyển giao quyền quản trị web cho khách hàng.Kèm với đó là hướng dẫn sử dụng web cùng một vài hỗ trợ khác."
+				]
+			}
+		]
+	},
+
+	"section6": {
+		"title": "9 LÝ DO NÊN CHỌN THIẾT KẾ WEB THEO MẪU TẠI CAK Solution",
+		"content": "Chúng tôi vẫn liên tục hoàn thiện dịch vụ và nỗ lực hơn nữa để giúp cho nhiều đối tác và khách hàng phát triển bền vững !!!",
+		"child": [
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/12.png",
+				"title": "Chuyên viên tư vấn tận tâm, nắm vững các nhu cầu của khách hàng."
+			},
+
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/16.png",
+				"title": "Kho giao diện có sẵn độc đáo, chuẩn Marketing đầy đủ mọi ngành nghề"
+			},
+
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/8.png",
+				"title": "Công nghệ mới nhất, hệ thống hoạt động ổn định, bảo mật cao"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/CRM%20(5).png",
+				"title": "Quy trình tiếp nhận và triển khai dự án chuyên nghiệp hàng đầu"
+			},
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/15.png",
+				"title": "Kết nối chặt chẽ, tương tác và phản hồi liên tục trong dự án"
+			},
+
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/1.png",
+				"title": "Đội ngũ có kinh nghiệm thực thi nhiều dự án đa dạng lĩnh vực khác nhau"
+			},
+
+			{
+				"image": "https://mediaimages.vps.vn//gangthep.vn/2024/032024/13/CRM%20(1).png",
+				"title": "Trách nhiệm với sản phẩm, mang lại nhiều giá trị cho khách hàng"
+			},
+
+			{
+				"image": "https://mediaimages.vps.vn//gangthep.vn/2024/032024/13/19.png",
+				"title": "Hỗ trợ vận hành và bảo trì đảm bảo website hoạt động trơn tru, không lỗi"
+			},
+
+			{
+				"image": "https://mediaimages.vps.vn//undefined/2024/032024/12/14.png",
+				"title": "Hỗ trợ đào tạo, hướng dẫn sử dụng website miễn phí"
+			}
+		]
+	},
+
+	"section7": {
+		"title": "THÀNH TỰU MÀ CAK SOLUTION ĐẠT ĐƯỢC",
+		"child": [
+			{
+				"title": 568,
+				"content": "Dự án đã triển khai"
+			},
+			{
+				"title": 500,
+				"content": "Khách hàng tiêu biểu"
+			},
+			{
+				"title": 7,
+				"content": "Năm kinh nghiệm"
+			},
+			{
+				"title": 30,
+				"content": "Đội ngũ nhân sự"
+			}
+		],
+		"content": "Các khách hàng tiêu biểu đã và đang hợp tác cùng CAK Solution"
+	},
+
+	"section8": {
+		"title": "CÁC CÂU HỎI THƯỜNG GẶP",
+		"child": [
+			{
+				"label": "Thiết kế website theo mẫu trọn gói là gì?",
+				"children": [
+					"Thiết kế web trọn gói là hình thức design web mà bạn sẽ được chúng tôi đưa ra khoản phí duy nhất không phát sinh thêm cho sản phẩm web theo yêu cầu."
+				]
+			},
+			{
+				"label": "Phí gia hạn web hàng năm là gì?",
+				"children": [
+					"Thực ra phí gia hạn hàng năm không phải là khoản phí mà khách hàng trả cho chúng tôi để duy trì web. Mà đây là khoản phí trả cho nhà cung cấp hosting và tên miền nhằm duy trì trạng thái hoạt động liên tục website.."
+				]
+			},
+			{
+				"label": "Website của tôi được bảo hành trong bao lâu?",
+				"children": [
+					"Nếu khách hàng không yêu cầu bàn giao source code và chỉ bàn giao thông tin quản trị website, domain, chúng tôi sẽ bảo hành web trọn đời, hỗ trợ khắc phục sự cố xuyên suốt quá trình hoạt động web."
+				]
+			},
+			{
+				"label": "Tôi cần thanh toán trước bao nhiêu phần trăm khi ký hợp đồng thiết kế web?",
+				"children": [
+					"Khi hợp tác, khách hàng chỉ cần thanh toán trước 50% chi phí. Khoản phí còn lại sau khi hoàn tất quá trình bàn giao và hướng dẫn sử dụng sản phẩm."
+				]
+			},
+			{
+				"label": "Website chuẩn UX là gì?",
+				"children": [
+					"Website chuẩn UX là website được xây dựng, thiết kế nhằm xây dựng trải nghiệm tốt cho người dùng mục tiêu.",
+					"Toàn bộ thiết kế, tính năng … được quyết định dựa trên bản phân tích khoa học, thử nghiệm và vận dụng best practices."
+				]
+			},
+			{
+				"label": "Website chuẩn UI là gì?",
+				"children": [
+					"Website chuẩn UI là website được thiết kế đảm bảo gây ấn tượng với người dùng mục tiêu, độc đáo và đảm bảo tính nhận diện.",
+					"Các thành phần UI (nhìn thấy) được tính toán kỹ lưỡng để mang lại thiết kế tổng thể bền vững, đáp ứng mục tiêu phát triển dài hạn."
+				]
+			},
+			{
+				"label": "Website chuẩn Sales là gì?",
+				"children": [
+					"Website là cổng thông tin doanh nghiệp, là công cụ hỗ trợ đắc lực cho việc bán hàng. Do đó, Website chuẩn Sales là website được thiết kế hỗ trợ hoạt động giới thiệu sản phẩm dịch vụ hiệu quả, thúc đẩy hoạt động bán hàng, đáp ứng quy trình của doanh nghiệp."
+				]
+			},
+			{
+				"label": "Website chuẩn Marketing là gì?",
+				"children": [
+					"Website chuẩn Marketing là website hỗ trợ tốt cho việc triển khai các chiến dịch marketing, dễ dàng tích hợp các công cụ hỗ trợ, theo dõi…"
+				]
+			},
+			{
+				"label": "Website chuẩn SEO là gì?",
+				"children": [
+					"Website chuẩn SEO là website được thiết kế nhằm hỗ trợ việc thu thập dữ liệu dễ dàng, đáp ứng các hoạt động tối ưu hóa, thúc đẩy thứ hạng trên công cụ tìm kiếm."
+				]
+			}
+		]
+	}
+}
